@@ -11,3 +11,14 @@
 3	331	7711262277988667	build.ninja	a7f325e027868c02
 34	230	7711262279697862	CMakeFiles/stm32-template.dir/lcd/lcd.c.obj	d1be6ff5bb26caf0
 230	950	7711262281652707	stm32-template.elf	dbbea68eb83466f7
+34	106	7711263254953593	CMakeFiles/stm32-template.dir/src/main.c.obj	218c0e82c641c5ea
+107	280	7711263255676451	stm32-template.elf	dbbea68eb83466f7
+46	202	7711266999785527	CMakeFiles/stm32-template.dir/src/main.c.obj	218c0e82c641c5ea
+203	1204	7711267001475759	stm32-template.elf	dbbea68eb83466f7
+30	128	7711271832349754	CMakeFiles/stm32-template.dir/src/main.c.obj	218c0e82c641c5ea
+22	156	7711271832274645	CMakeFiles/stm32-template.dir/lcd/lcd.c.obj	d1be6ff5bb26caf0
+156	661	7711271833609025	stm32-template.elf	dbbea68eb83466f7
+31	134	7711273691688034	CMakeFiles/stm32-template.dir/src/main.c.obj	218c0e82c641c5ea
+135	603	7711273692717406	stm32-template.elf	dbbea68eb83466f7
+25	90	7711274829850339	CMakeFiles/stm32-template.dir/src/main.c.obj	218c0e82c641c5ea
+91	242	7711274830515522	stm32-template.elf	dbbea68eb83466f7

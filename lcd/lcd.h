@@ -12,8 +12,8 @@
 #define LCD_CTRL_PORT    GPIO_A    // Control pins connected to Port A
 
 // LCD Control Pins
-#define LCD_RS_PIN       0         // Register Select pin (PA0)
-#define LCD_EN_PIN       1         // Enable pin (PA1)
+#define LCD_RS_PIN       5         // Register Select pin (PA0)
+#define LCD_EN_PIN       6         // Enable pin (PA1)
 
 // LCD Data Pins (4-bit mode)
 #define LCD_D4_PIN       4         // Data bit 4 (PB4)
