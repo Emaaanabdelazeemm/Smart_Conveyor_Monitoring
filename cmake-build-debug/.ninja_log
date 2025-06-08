@@ -1,0 +1,10 @@
+# ninja log v6
+48	84	7711246982856053	CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj	c8b594612a2929ae
+20	127	7711246982573814	CMakeFiles/stm32-template.dir/Motor/motor.c.obj	f01dbf6f24f0d9ae
+30	130	7711246982673787	CMakeFiles/stm32-template.dir/RCC/RCC.c.obj	6d5c1cc5012c0b12
+12	131	7711246982501969	CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj	c690e3cba0ab5029
+25	133	7711246982623785	CMakeFiles/stm32-template.dir/PWM/PWM.c.obj	bedce72de5bbe2b7
+35	135	7711246982724603	CMakeFiles/stm32-template.dir/src/main.c.obj	218c0e82c641c5ea
+5	136	7711246982416376	CMakeFiles/stm32-template.dir/ADC/ADC.c.obj	3636f784b3a9f636
+40	153	7711246982780668	CMakeFiles/stm32-template.dir/STM32-base-STM32Cube/CMSIS/STM32F4xx/src/system_stm32f4xx.c.obj	4b4b28d12f882942
+154	300	7711246983908105	stm32-template.elf	ca9d2a7190d7c48c
