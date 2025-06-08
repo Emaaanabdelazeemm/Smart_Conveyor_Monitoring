@@ -10,6 +10,7 @@ set(SOURCES
         RCC/RCC.c
         PWM/PWM.c
         ADC/ADC.c
+        lcd/lcd.c
         Motor/motor.c
 )
 if (USE_HAL)

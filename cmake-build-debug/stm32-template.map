@@ -1,5 +1,13 @@
 Archive member included to satisfy reference by file (symbol)
 
+C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+                              CMakeFiles/stm32-template.dir/lcd/lcd.c.obj (__aeabi_fmul)
+C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                              CMakeFiles/stm32-template.dir/lcd/lcd.c.obj (__aeabi_fsub)
+C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+                              CMakeFiles/stm32-template.dir/lcd/lcd.c.obj (__aeabi_fcmplt)
+C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+                              CMakeFiles/stm32-template.dir/lcd/lcd.c.obj (__aeabi_f2uiz)
 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o)
                               C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o (exit)
 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
@@ -85,6 +93,45 @@ Discarded input sections
  .bss           0x00000000        0x0 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
  .text.Rcc_Disable
                 0x00000000       0xa8 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
+ .text          0x00000000        0x0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .text.LCD_Init
+                0x00000000       0xc4 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .text.LCD_SendCommand
+                0x00000000       0x3c CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .text.LCD_SendData
+                0x00000000       0x3c CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .text.LCD_SendNibble
+                0x00000000       0x6a CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .text.LCD_Pulse_Enable
+                0x00000000       0x28 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .text.LCD_SendString
+                0x00000000       0x32 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .text.LCD_SetCursor
+                0x00000000       0x40 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .text.LCD_Clear
+                0x00000000       0x14 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .text.LCD_PrintNumber
+                0x00000000       0x80 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .text.LCD_PrintFloat
+                0x00000000       0xb0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .text.LCD_Delay_ms
+                0x00000000       0x30 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .text.LCD_Delay_us
+                0x00000000       0x28 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_info    0x00000000      0x3a3 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_abbrev  0x00000000      0x12b CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_loc     0x00000000      0x360 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_aranges
+                0x00000000       0x78 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_ranges  0x00000000       0x68 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_line    0x00000000      0x34b CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_str     0x00000000      0x33a CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .comment       0x00000000       0x46 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_frame   0x00000000      0x1ac CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .ARM.attributes
+                0x00000000       0x2e CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
  .text          0x00000000        0x0 CMakeFiles/stm32-template.dir/src/main.c.obj
  .data          0x00000000        0x0 CMakeFiles/stm32-template.dir/src/main.c.obj
  .bss           0x00000000        0x0 CMakeFiles/stm32-template.dir/src/main.c.obj
@@ -116,6 +163,38 @@ Discarded input sections
  .text          0x00000000       0x14 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
  .data          0x00000000        0x0 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
  .bss           0x00000000        0x0 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
+ .text          0x00000000      0x168 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .debug_line_str
+                0x00000000       0xcf C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .debug_frame   0x00000000       0x24 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .ARM.attributes
+                0x00000000       0x1e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .text          0x00000000      0x21c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_line_str
+                0x00000000       0xcf C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x00000000       0x4c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x00000000       0x1e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .text          0x00000000       0xec C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .debug_line_str
+                0x00000000       0xcf C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .debug_frame   0x00000000       0xc8 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x00000000       0x1e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .text          0x00000000       0x40 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .debug_line_str
+                0x00000000       0xcf C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .debug_frame   0x00000000       0x24 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .ARM.attributes
+                0x00000000       0x1e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
  .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o)
  .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o)
  .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o)
@@ -354,6 +433,7 @@ LOAD CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
 LOAD CMakeFiles/stm32-template.dir/Motor/motor.c.obj
 LOAD CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
 LOAD CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
+LOAD CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
 LOAD CMakeFiles/stm32-template.dir/src/main.c.obj
 LOAD CMakeFiles/stm32-template.dir/STM32-base-STM32Cube/CMSIS/STM32F4xx/src/system_stm32f4xx.c.obj
 LOAD CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
