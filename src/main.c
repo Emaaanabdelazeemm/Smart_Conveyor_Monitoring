@@ -19,12 +19,6 @@
 #define IR_Push_button_pin 9
 
 
-#include "../EXTI/EXTI.h"
-
-#define EMERGENCY_BUTTON_PIN 8
-#define EMERGENCY_BUTTON_PORT GPIO_A
-
-volatile uint8 emergency_stop_triggered = 0;
 
 
 void setup(void);
@@ -61,9 +55,7 @@ void setup(void)
 	Rcc_Enable(RCC_SYSCFG);
 	Rcc_Enable(RCC_TIM2);
 
-	Gpio_Init(EMERGENCY_BUTTON_PORT, EMERGENCY_BUTTON_PIN, GPIO_INPUT, GPIO_PULL_UP);
-	Exti_Init(EMERGENCY_BUTTON_PORT, EMERGENCY_BUTTON_PIN, FALLING_EDGE);
-	Exti_Enable(EMERGENCY_BUTTON_PIN);
+
 
 	Init_Motor(TIM2_CH3, 50);
 	LCD_Init();
@@ -79,62 +71,21 @@ void setup(void)
 	Gpio_WritePin(GPIO_A, 7, HIGH);
 }
 
-uint8 emergency_displayed = 0;
-uint16 last_motor_speed = 0;
-
 void loop(void) {
-	if (emergency_stop_triggered && !emergency_displayed) {
-		Set_Motor_Speed(0);
-		Stop_Motor();
 
-		LCD_Clear();
-		LCD_SetCursor(0, 0);
-		LCD_SendString("EMERGENCY STOP");
-
-		uint32 speed;
-		do {
-			speed = TIM_GetCaptureValue();
-			LCD_SetCursor(1, 0);
-			LCD_SendString("Speed: ");
-			LCD_PrintNumber_FixedWidth(speed, 5);
-			LCD_SendData(' ');
-
-			for (volatile uint32 i = 0; i < 30000; i++);
-		} while (speed > 0);
-
-		emergency_displayed = 1;
-		return;
-	}
-
-	if (emergency_stop_triggered) {
-		return; // Already displayed, do nothing
-	}
-
-	// Normal operation
 	uint16 duty_cycle_percent = read_duty_cycle();
 	Set_Motor_Speed(duty_cycle_percent);
 	Display_motor_speed(duty_cycle_percent);
 	check_object_detection();
 	uint32 pulse_width = TIM_GetCaptureValue();
-
-	last_motor_speed = duty_cycle_percent;  // 🟢 Save it
-	Set_Motor_Speed(duty_cycle_percent);
-	Display_motor_speed(duty_cycle_percent);
-
-
 	// Toggle LED if valid pulse detected
 	if(pulse_width > 0) {
 		Gpio_WritePin(GPIO_A, 7, LOW);
 	}
 
 
+
 }
-
-
-
-
-
-
 
 
 
@@ -172,6 +123,13 @@ void Display_motor_speed(uint16 duty_cycle_percent) {
 	LCD_PrintNumber_FixedWidth(duty_cycle_percent, 3);  // Fixed width of 3 characters
 	LCD_SendData('%');  // Add percentage symbol
 }
+
+void Display_timer_speed(float speed) {
+	LCD_SetCursor(0, 10);  // Position at row 0, column 10 (right half of first row)
+	LCD_SendString("pw:");
+	LCD_PrintFloat(speed, 2);  // Display speed with 2 decimal places
+}
+
 
 void EXTI9_5_IRQHandler(void) {
 	if (EXTI->PR & (1 << EMERGENCY_BUTTON_PIN)) {
