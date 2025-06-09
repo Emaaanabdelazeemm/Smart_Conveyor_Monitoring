@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"jsonFile" : "directory-.-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.30"
@@ -19,7 +19,7 @@
 					]
 				}
 			],
-			"name" : "Debug",
+			"name" : "",
 			"projects" : 
 			[
 				{
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "stm32-template::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-stm32-template-Debug-0432c88db9bcee335fd5.json",
+					"jsonFile" : "target-stm32-template-45ad3eaafb5a762044da.json",
 					"name" : "stm32-template",
 					"projectIndex" : 0
 				}

@@ -59,8 +59,8 @@ void setup(void)
 	Gpio_Init(GPIO_B, motor_IN1_PIN, GPIO_OUTPUT, GPIO_PUSH_PULL);
 	Gpio_Init(GPIO_B, motor_IN2_PIN, GPIO_OUTPUT, GPIO_PUSH_PULL);
 	Gpio_Init(GPIO_B, IR_Push_button_pin, GPIO_INPUT, GPIO_PULL_UP);
-	Gpio_WritePin(GPIO_B,motor_IN1_PIN , HIGH);
-	Gpio_WritePin(GPIO_B, motor_IN2_PIN, LOW);
+	Gpio_WritePin(GPIO_B,motor_IN1_PIN , LOW);
+	Gpio_WritePin(GPIO_B, motor_IN2_PIN, HIGH);
 }
 
 void loop(void) {
