@@ -28,6 +28,7 @@ void check_object_detection();
 void update_LCD_object_count(uint8 count);
 uint8 Read_IR_button();
 void Display_motor_speed(uint16 duty_cycle_percent);
+void Display_timer_speed(float speed);
 
 
 uint8 object_count = 0;
@@ -68,7 +69,7 @@ void setup(void)
 	Gpio_WritePin(GPIO_A, motor_IN2_PIN, HIGH);
 	//led for timer
 	Gpio_Init(GPIO_A, 7, GPIO_OUTPUT, GPIO_PUSH_PULL);
-	Gpio_WritePin(GPIO_A, 7, HIGH);
+	Gpio_WritePin(GPIO_A, 7, LOW);
 }
 
 void loop(void) {
@@ -77,11 +78,20 @@ void loop(void) {
 	Set_Motor_Speed(duty_cycle_percent);
 	Display_motor_speed(duty_cycle_percent);
 	check_object_detection();
+	
+	// Get and display timer speed
+	float timer_speed = TIM_GetSpeed();
+	Display_timer_speed(timer_speed);
+	
 	uint32 pulse_width = TIM_GetCaptureValue();
 	// Toggle LED if valid pulse detected
 	if(pulse_width > 0) {
-		Gpio_WritePin(GPIO_A, 7, LOW);
+		Gpio_WritePin(GPIO_A, 7, !Gpio_ReadPin(GPIO_A, 7));
 	}
+
+	// Small delay
+	for(volatile uint32 i = 0; i < 50000; i++);
+
 
 
 
@@ -122,4 +132,10 @@ void Display_motor_speed(uint16 duty_cycle_percent) {
 	LCD_SendString("Motor: ");
 	LCD_PrintNumber_FixedWidth(duty_cycle_percent, 3);  // Fixed width of 3 characters
 	LCD_SendData('%');  // Add percentage symbol
+}
+
+void Display_timer_speed(float speed) {
+	LCD_SetCursor(0, 10);  // Position at row 0, column 10 (right half of first row)
+	LCD_SendString("pw:");
+	LCD_PrintFloat(speed, 2);  // Display speed with 2 decimal places
 }
