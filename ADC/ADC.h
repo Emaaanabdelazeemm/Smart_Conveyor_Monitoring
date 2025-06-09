@@ -6,9 +6,9 @@
 #define ADC_H
 #include "../LIB/Std_Types.h"
 
-#define ADC_IN0   0
-#define ADC_IN1   1
-#define ADC_IN2   2
+#define ADC_IN0   0 //	PA0
+#define ADC_IN1   1 //	PA1
+#define ADC_IN2   2 // PA2
 #define ADC_IN3   3
 #define ADC_IN4   4
 

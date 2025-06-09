@@ -26,6 +26,7 @@ uint16 read_duty_cycle(void);
 void check_object_detection();
 void update_LCD_object_count(uint8 count);
 uint8 Read_IR_button();
+void Display_motor_speed(uint16 duty_cycle_percent);
 
 
 uint8 object_count = 0;
@@ -66,6 +67,7 @@ void loop(void) {
 
 	uint16 duty_cycle_percent = read_duty_cycle();
 	Set_Motor_Speed(duty_cycle_percent);
+	Display_motor_speed(duty_cycle_percent);
 	check_object_detection();
 
 }
@@ -75,7 +77,8 @@ void loop(void) {
 uint16 read_duty_cycle(void)
 {
 	uint16 digital_value = ADC_CONVERSION();  // Read ADC value
-	uint16 duty_cycle_percent = (digital_value * 100) / 4095; //
+	uint16 duty_cycle_percent = ((uint32)digital_value * 100U) / 4095U;
+
 	return duty_cycle_percent;  // Convert to percentage (0-100%)
 }
 
@@ -83,7 +86,7 @@ uint8 Read_IR_button() {
 	return (Gpio_ReadPin(GPIO_B, IR_Push_button_pin));
 }
 void update_LCD_object_count(uint8 count) {
-	LCD_SetCursor(0, 2);  // Line 2
+	LCD_SetCursor(0, 1);
 	LCD_SendString("Count:");
 	LCD_PrintNumber(count);
 }
@@ -99,3 +102,8 @@ void check_object_detection() {
 	prev_state = curr_state;
 }
 
+void Display_motor_speed(uint16 duty_cycle_percent) {
+	LCD_SetCursor(1, 1);
+	LCD_SendString("Motor:");
+	LCD_PrintNumber(duty_cycle_percent);
+}
