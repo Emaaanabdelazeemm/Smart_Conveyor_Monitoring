@@ -124,13 +124,55 @@ void LCD_PrintNumber(uint32 number) {
     // Handle zero case
     if (number == 0) {
         LCD_SendData('0');
+        LCD_SendData(' ');  // Clear any remaining digit
+        LCD_SendData(' ');  // Clear any remaining digit
         return;
     }
 
     // Convert number to string (reverse order)
-    while (number > 0) {
-        buffer[i++] = (number % 10) + '0';
-        number /= 10;
+    uint32 temp = number;
+    while (temp > 0) {
+        buffer[i++] = (temp % 10) + '0';
+        temp /= 10;
+    }
+
+    // Send digits in correct order
+    uint8 digits_printed = 0;
+    while (i > 0) {
+        LCD_SendData(buffer[--i]);
+        digits_printed++;
+    }
+
+    // Clear remaining positions (assuming max 3 digits for percentage)
+    while (digits_printed < 3) {
+        LCD_SendData(' ');
+        digits_printed++;
+    }
+}
+
+void LCD_PrintNumber_FixedWidth(uint32 number, uint8 width) {
+    char buffer[12];
+    uint8 i = 0;
+
+    // Handle zero case
+    if (number == 0) {
+        for (uint8 j = 0; j < width - 1; j++) {
+            LCD_SendData(' ');  // Leading spaces
+        }
+        LCD_SendData('0');
+        return;
+    }
+
+    // Convert number to string
+    uint32 temp = number;
+    while (temp > 0) {
+        buffer[i++] = (temp % 10) + '0';
+        temp /= 10;
+    }
+
+    // Add leading spaces if needed
+    while (i < width) {
+        buffer[i++] = ' ';
     }
 
     // Send digits in correct order

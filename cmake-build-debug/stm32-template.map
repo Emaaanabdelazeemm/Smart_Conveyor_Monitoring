@@ -440,7 +440,7 @@ LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-no
  .isr_vector    0x08000000      0x194 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
                 0x08000194                        . = ALIGN (0x4)
 
-.text           0x08000194     0x1308
+.text           0x08000194     0x1400
                 0x08000194                        . = ALIGN (0x4)
                 0x08000194                        __text_start = .
  *(.text)
@@ -514,177 +514,179 @@ LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-no
                 0x08001110       0x40 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
                 0x08001110                LCD_SetCursor
  .text.LCD_PrintNumber
-                0x08001150       0x80 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+                0x08001150       0xb0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
                 0x08001150                LCD_PrintNumber
+ .text.LCD_PrintNumber_FixedWidth
+                0x08001200       0xc0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+                0x08001200                LCD_PrintNumber_FixedWidth
  .text.LCD_Delay_ms
-                0x080011d0       0x30 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
-                0x080011d0                LCD_Delay_ms
+                0x080012c0       0x30 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+                0x080012c0                LCD_Delay_ms
  .text.LCD_Delay_us
-                0x08001200       0x28 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
-                0x08001200                LCD_Delay_us
- .text.main     0x08001228        0xe CMakeFiles/stm32-template.dir/src/main.c.obj
-                0x08001228                main
- .text.setup    0x08001236       0x8e CMakeFiles/stm32-template.dir/src/main.c.obj
-                0x08001236                setup
- .text.loop     0x080012c4       0x40 CMakeFiles/stm32-template.dir/src/main.c.obj
-                0x080012c4                loop
+                0x080012f0       0x28 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+                0x080012f0                LCD_Delay_us
+ .text.main     0x08001318        0xe CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x08001318                main
+ .text.setup    0x08001326       0x8e CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x08001326                setup
+ .text.loop     0x080013b4       0x40 CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x080013b4                loop
  .text.read_duty_cycle
-                0x08001304       0x34 CMakeFiles/stm32-template.dir/src/main.c.obj
-                0x08001304                read_duty_cycle
+                0x080013f4       0x34 CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x080013f4                read_duty_cycle
  .text.Read_IR_button
-                0x08001338       0x12 CMakeFiles/stm32-template.dir/src/main.c.obj
-                0x08001338                Read_IR_button
- *fill*         0x0800134a        0x2 
- .text.update_LCD_object_count
-                0x0800134c       0x2c CMakeFiles/stm32-template.dir/src/main.c.obj
-                0x0800134c                update_LCD_object_count
- .text.check_object_detection
-                0x08001378       0x50 CMakeFiles/stm32-template.dir/src/main.c.obj
-                0x08001378                check_object_detection
- .text.Display_motor_speed
-                0x080013c8       0x2c CMakeFiles/stm32-template.dir/src/main.c.obj
-                0x080013c8                Display_motor_speed
- .text.Reset_Handler
-                0x080013f4       0x44 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
-                0x080013f4                Reset_Handler
- .text.Default_Handler
-                0x08001438        0x2 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
-                0x08001438                RTC_Alarm_IRQHandler
-                0x08001438                EXTI2_IRQHandler
-                0x08001438                DebugMon_Handler
-                0x08001438                SPI4_IRQHandler
-                0x08001438                TIM1_CC_IRQHandler
-                0x08001438                DMA2_Stream5_IRQHandler
-                0x08001438                HardFault_Handler
-                0x08001438                DMA1_Stream5_IRQHandler
-                0x08001438                SysTick_Handler
-                0x08001438                PVD_IRQHandler
-                0x08001438                SDIO_IRQHandler
-                0x08001438                TAMP_STAMP_IRQHandler
-                0x08001438                PendSV_Handler
-                0x08001438                NMI_Handler
-                0x08001438                EXTI3_IRQHandler
-                0x08001438                TIM1_UP_TIM10_IRQHandler
-                0x08001438                I2C3_ER_IRQHandler
-                0x08001438                EXTI0_IRQHandler
-                0x08001438                I2C2_EV_IRQHandler
-                0x08001438                DMA1_Stream2_IRQHandler
-                0x08001438                FPU_IRQHandler
-                0x08001438                UsageFault_Handler
-                0x08001438                DMA2_Stream2_IRQHandler
-                0x08001438                SPI1_IRQHandler
-                0x08001438                TIM1_BRK_TIM9_IRQHandler
-                0x08001438                DMA2_Stream3_IRQHandler
-                0x08001438                USART6_IRQHandler
-                0x08001438                DMA2_Stream0_IRQHandler
-                0x08001438                TIM4_IRQHandler
-                0x08001438                I2C1_EV_IRQHandler
-                0x08001438                DMA1_Stream6_IRQHandler
-                0x08001438                DMA1_Stream1_IRQHandler
-                0x08001438                TIM3_IRQHandler
-                0x08001438                RCC_IRQHandler
-                0x08001438                Default_Handler
-                0x08001438                EXTI15_10_IRQHandler
-                0x08001438                ADC_IRQHandler
-                0x08001438                DMA1_Stream7_IRQHandler
-                0x08001438                TIM5_IRQHandler
-                0x08001438                DMA2_Stream7_IRQHandler
-                0x08001438                I2C3_EV_IRQHandler
-                0x08001438                EXTI9_5_IRQHandler
-                0x08001438                RTC_WKUP_IRQHandler
-                0x08001438                SPI2_IRQHandler
-                0x08001438                MemManage_Handler
-                0x08001438                DMA1_Stream0_IRQHandler
-                0x08001438                SVC_Handler
-                0x08001438                EXTI4_IRQHandler
-                0x08001438                WWDG_IRQHandler
-                0x08001438                TIM2_IRQHandler
-                0x08001438                OTG_FS_WKUP_IRQHandler
-                0x08001438                TIM1_TRG_COM_TIM11_IRQHandler
-                0x08001438                EXTI1_IRQHandler
-                0x08001438                USART2_IRQHandler
-                0x08001438                I2C2_ER_IRQHandler
-                0x08001438                DMA2_Stream1_IRQHandler
-                0x08001438                FLASH_IRQHandler
-                0x08001438                DMA2_Stream4_IRQHandler
-                0x08001438                BusFault_Handler
-                0x08001438                USART1_IRQHandler
-                0x08001438                OTG_FS_IRQHandler
-                0x08001438                SPI3_IRQHandler
-                0x08001438                DMA1_Stream4_IRQHandler
-                0x08001438                I2C1_ER_IRQHandler
-                0x08001438                DMA2_Stream6_IRQHandler
-                0x08001438                DMA1_Stream3_IRQHandler
+                0x08001428       0x12 CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x08001428                Read_IR_button
  *fill*         0x0800143a        0x2 
+ .text.update_LCD_object_count
+                0x0800143c       0x2c CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x0800143c                update_LCD_object_count
+ .text.check_object_detection
+                0x08001468       0x50 CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x08001468                check_object_detection
+ .text.Display_motor_speed
+                0x080014b8       0x34 CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x080014b8                Display_motor_speed
+ .text.Reset_Handler
+                0x080014ec       0x44 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
+                0x080014ec                Reset_Handler
+ .text.Default_Handler
+                0x08001530        0x2 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
+                0x08001530                RTC_Alarm_IRQHandler
+                0x08001530                EXTI2_IRQHandler
+                0x08001530                DebugMon_Handler
+                0x08001530                SPI4_IRQHandler
+                0x08001530                TIM1_CC_IRQHandler
+                0x08001530                DMA2_Stream5_IRQHandler
+                0x08001530                HardFault_Handler
+                0x08001530                DMA1_Stream5_IRQHandler
+                0x08001530                SysTick_Handler
+                0x08001530                PVD_IRQHandler
+                0x08001530                SDIO_IRQHandler
+                0x08001530                TAMP_STAMP_IRQHandler
+                0x08001530                PendSV_Handler
+                0x08001530                NMI_Handler
+                0x08001530                EXTI3_IRQHandler
+                0x08001530                TIM1_UP_TIM10_IRQHandler
+                0x08001530                I2C3_ER_IRQHandler
+                0x08001530                EXTI0_IRQHandler
+                0x08001530                I2C2_EV_IRQHandler
+                0x08001530                DMA1_Stream2_IRQHandler
+                0x08001530                FPU_IRQHandler
+                0x08001530                UsageFault_Handler
+                0x08001530                DMA2_Stream2_IRQHandler
+                0x08001530                SPI1_IRQHandler
+                0x08001530                TIM1_BRK_TIM9_IRQHandler
+                0x08001530                DMA2_Stream3_IRQHandler
+                0x08001530                USART6_IRQHandler
+                0x08001530                DMA2_Stream0_IRQHandler
+                0x08001530                TIM4_IRQHandler
+                0x08001530                I2C1_EV_IRQHandler
+                0x08001530                DMA1_Stream6_IRQHandler
+                0x08001530                DMA1_Stream1_IRQHandler
+                0x08001530                TIM3_IRQHandler
+                0x08001530                RCC_IRQHandler
+                0x08001530                Default_Handler
+                0x08001530                EXTI15_10_IRQHandler
+                0x08001530                ADC_IRQHandler
+                0x08001530                DMA1_Stream7_IRQHandler
+                0x08001530                TIM5_IRQHandler
+                0x08001530                DMA2_Stream7_IRQHandler
+                0x08001530                I2C3_EV_IRQHandler
+                0x08001530                EXTI9_5_IRQHandler
+                0x08001530                RTC_WKUP_IRQHandler
+                0x08001530                SPI2_IRQHandler
+                0x08001530                MemManage_Handler
+                0x08001530                DMA1_Stream0_IRQHandler
+                0x08001530                SVC_Handler
+                0x08001530                EXTI4_IRQHandler
+                0x08001530                WWDG_IRQHandler
+                0x08001530                TIM2_IRQHandler
+                0x08001530                OTG_FS_WKUP_IRQHandler
+                0x08001530                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08001530                EXTI1_IRQHandler
+                0x08001530                USART2_IRQHandler
+                0x08001530                I2C2_ER_IRQHandler
+                0x08001530                DMA2_Stream1_IRQHandler
+                0x08001530                FLASH_IRQHandler
+                0x08001530                DMA2_Stream4_IRQHandler
+                0x08001530                BusFault_Handler
+                0x08001530                USART1_IRQHandler
+                0x08001530                OTG_FS_IRQHandler
+                0x08001530                SPI3_IRQHandler
+                0x08001530                DMA1_Stream4_IRQHandler
+                0x08001530                I2C1_ER_IRQHandler
+                0x08001530                DMA2_Stream6_IRQHandler
+                0x08001530                DMA1_Stream3_IRQHandler
+ *fill*         0x08001532        0x2 
  .text.__libc_init_array
-                0x0800143c       0x48 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-init.o)
-                0x0800143c                __libc_init_array
+                0x08001534       0x48 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-init.o)
+                0x08001534                __libc_init_array
  *(.glue_7)
- .glue_7        0x08001484        0x0 linker stubs
+ .glue_7        0x0800157c        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x08001484        0x0 linker stubs
+ .glue_7t       0x0800157c        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x08001484        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .eh_frame      0x0800157c        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
  *(.init)
- .init          0x08001484        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
-                0x08001484                _init
- .init          0x08001488        0x8 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
+ .init          0x0800157c        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
+                0x0800157c                _init
+ .init          0x08001580        0x8 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
  *(.fini)
- .fini          0x08001490        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
-                0x08001490                _fini
- .fini          0x08001494        0x8 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
-                0x0800149c                        . = ALIGN (0x4)
-                0x0800149c                        __text_end = .
+ .fini          0x08001588        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
+                0x08001588                _fini
+ .fini          0x0800158c        0x8 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
+                0x08001594                        . = ALIGN (0x4)
+                0x08001594                        __text_end = .
 
-.vfp11_veneer   0x0800149c        0x0
- .vfp11_veneer  0x0800149c        0x0 linker stubs
+.vfp11_veneer   0x08001594        0x0
+ .vfp11_veneer  0x08001594        0x0 linker stubs
 
-.v4_bx          0x0800149c        0x0
- .v4_bx         0x0800149c        0x0 linker stubs
+.v4_bx          0x08001594        0x0
+ .v4_bx         0x08001594        0x0 linker stubs
 
-.iplt           0x0800149c        0x0
- .iplt          0x0800149c        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+.iplt           0x08001594        0x0
+ .iplt          0x08001594        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
 
-.rodata         0x0800149c       0x10
-                0x0800149c                        . = ALIGN (0x4)
-                0x0800149c                        __rodata_start = .
+.rodata         0x08001594       0x10
+                0x08001594                        . = ALIGN (0x4)
+                0x08001594                        __rodata_start = .
  *(.rodata)
- .rodata        0x0800149c        0xf CMakeFiles/stm32-template.dir/src/main.c.obj
+ .rodata        0x08001594       0x10 CMakeFiles/stm32-template.dir/src/main.c.obj
  *(.rodata*)
-                0x080014ac                        . = ALIGN (0x4)
- *fill*         0x080014ab        0x1 
-                0x080014ac                        __rodata_end = .
+                0x080015a4                        . = ALIGN (0x4)
+                0x080015a4                        __rodata_end = .
 
-.rel.dyn        0x080014ac        0x0
- .rel.iplt      0x080014ac        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+.rel.dyn        0x080015a4        0x0
+ .rel.iplt      0x080015a4        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x080014ac        0x0
-                0x080014ac                        __exidx_start = .
+.ARM            0x080015a4        0x0
+                0x080015a4                        __exidx_start = .
  *(.ARM.exidx*)
-                0x080014ac                        __exidx_end = .
+                0x080015a4                        __exidx_end = .
 
-.preinit_array  0x080014ac        0x0
-                0x080014ac                        PROVIDE (__preinit_array_start = .)
+.preinit_array  0x080015a4        0x0
+                0x080015a4                        PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x080014ac                        PROVIDE (__preinit_array_end = .)
+                0x080015a4                        PROVIDE (__preinit_array_end = .)
 
-.init_array     0x080014ac        0x4
-                0x080014ac                        PROVIDE (__init_array_start = .)
+.init_array     0x080015a4        0x4
+                0x080015a4                        PROVIDE (__init_array_start = .)
  *(.init_array*)
- .init_array    0x080014ac        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
-                0x080014b0                        PROVIDE (__init_array_end = .)
+ .init_array    0x080015a4        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x080015a8                        PROVIDE (__init_array_end = .)
 
-.fini_array     0x080014b0        0x4
+.fini_array     0x080015a8        0x4
                 [!provide]                        PROVIDE (__fini_array_start = .)
  *(.fini_array*)
- .fini_array    0x080014b0        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .fini_array    0x080015a8        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
                 [!provide]                        PROVIDE (__fini_array_end = .)
-                0x080014b4                        __data_flash_start = LOADADDR (.data)
+                0x080015ac                        __data_flash_start = LOADADDR (.data)
 
-.data           0x20000000        0x4 load address 0x080014b4
+.data           0x20000000        0x4 load address 0x080015ac
                 0x20000000                        . = ALIGN (0x4)
                 0x20000000                        __data_start = .
  *(.data)
@@ -697,16 +699,16 @@ LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-no
                 0x20000004                        __data_end = .
 
 .tm_clone_table
-                0x20000004        0x0 load address 0x080014b8
+                0x20000004        0x0 load address 0x080015b0
  .tm_clone_table
                 0x20000004        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
  .tm_clone_table
                 0x20000004        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
 
-.igot.plt       0x20000004        0x0 load address 0x080014b8
+.igot.plt       0x20000004        0x0 load address 0x080015b0
  .igot.plt      0x20000004        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
 
-.bss            0x20000004       0x28 load address 0x080014b8
+.bss            0x20000004       0x28 load address 0x080015b0
                 0x20000004                        . = ALIGN (0x4)
                 0x20000004                        __bss_start = .
                 0x20000004                        __bss_start__ = __bss_start
@@ -731,9 +733,9 @@ LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-no
  *fill*         0x2000002a        0x2 
                 0x2000002c                        __bss_end = .
                 0x2000002c                        __bss_end__ = __bss_end
-                0x080014b8                        __cmmdata_flash_start = LOADADDR (.ccmram)
+                0x080015b0                        __cmmdata_flash_start = LOADADDR (.ccmram)
 
-.ccmram         0x10000000        0x0 load address 0x080014b8
+.ccmram         0x10000000        0x0 load address 0x080015b0
                 0x10000000                        . = ALIGN (0x4)
                 0x10000000                        __ccmdata_start = .
  *(.ccmram)
@@ -794,16 +796,16 @@ LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-no
 LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libm.a
 LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a
 
-.debug_info     0x00000000     0x127b
+.debug_info     0x00000000     0x1344
  .debug_info    0x00000000      0x2b4 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
  .debug_info    0x000002b4      0x185 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
  .debug_info    0x00000439      0x17b CMakeFiles/stm32-template.dir/Motor/motor.c.obj
  .debug_info    0x000005b4      0x2c7 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
  .debug_info    0x0000087b      0x131 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
  .debug_info    0x000009ac      0x183 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
- .debug_info    0x00000b2f      0x3a3 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
- .debug_info    0x00000ed2      0x379 CMakeFiles/stm32-template.dir/src/main.c.obj
- .debug_info    0x0000124b       0x30 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
+ .debug_info    0x00000b2f      0x43d CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_info    0x00000f6c      0x3a8 CMakeFiles/stm32-template.dir/src/main.c.obj
+ .debug_info    0x00001314       0x30 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
 
 .debug_abbrev   0x00000000      0x75a
  .debug_abbrev  0x00000000       0xda CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
@@ -816,17 +818,17 @@ LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-no
  .debug_abbrev  0x000005c2      0x17b CMakeFiles/stm32-template.dir/src/main.c.obj
  .debug_abbrev  0x0000073d       0x1d CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
 
-.debug_loc      0x00000000      0xb1c
+.debug_loc      0x00000000      0xb6c
  .debug_loc     0x00000000       0x94 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
  .debug_loc     0x00000094      0x114 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
  .debug_loc     0x000001a8       0xf8 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
  .debug_loc     0x000002a0      0x134 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
  .debug_loc     0x000003d4       0xfc CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
  .debug_loc     0x000004d0       0xfc CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
- .debug_loc     0x000005cc      0x360 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
- .debug_loc     0x0000092c      0x1f0 CMakeFiles/stm32-template.dir/src/main.c.obj
+ .debug_loc     0x000005cc      0x3b0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_loc     0x0000097c      0x1f0 CMakeFiles/stm32-template.dir/src/main.c.obj
 
-.debug_aranges  0x00000000      0x220
+.debug_aranges  0x00000000      0x228
  .debug_aranges
                 0x00000000       0x28 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
  .debug_aranges
@@ -840,45 +842,45 @@ LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-no
  .debug_aranges
                 0x000000f8       0x30 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
  .debug_aranges
-                0x00000128       0x78 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+                0x00000128       0x80 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
  .debug_aranges
-                0x000001a0       0x58 CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x000001a8       0x58 CMakeFiles/stm32-template.dir/src/main.c.obj
  .debug_aranges
-                0x000001f8       0x28 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
+                0x00000200       0x28 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
 
-.debug_ranges   0x00000000      0x198
+.debug_ranges   0x00000000      0x1a0
  .debug_ranges  0x00000000       0x18 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
  .debug_ranges  0x00000018       0x20 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
  .debug_ranges  0x00000038       0x28 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
  .debug_ranges  0x00000060       0x28 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
  .debug_ranges  0x00000088       0x20 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
  .debug_ranges  0x000000a8       0x20 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
- .debug_ranges  0x000000c8       0x68 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
- .debug_ranges  0x00000130       0x48 CMakeFiles/stm32-template.dir/src/main.c.obj
- .debug_ranges  0x00000178       0x20 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
+ .debug_ranges  0x000000c8       0x70 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_ranges  0x00000138       0x48 CMakeFiles/stm32-template.dir/src/main.c.obj
+ .debug_ranges  0x00000180       0x20 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
 
-.debug_line     0x00000000     0x1686
+.debug_line     0x00000000     0x171b
  .debug_line    0x00000000      0x24c CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
  .debug_line    0x0000024c      0x4d7 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
  .debug_line    0x00000723      0x16e CMakeFiles/stm32-template.dir/Motor/motor.c.obj
  .debug_line    0x00000891      0x300 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
  .debug_line    0x00000b91      0x122 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
  .debug_line    0x00000cb3      0x216 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
- .debug_line    0x00000ec9      0x34b CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
- .debug_line    0x00001214      0x3b2 CMakeFiles/stm32-template.dir/src/main.c.obj
- .debug_line    0x000015c6       0xc0 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
+ .debug_line    0x00000ec9      0x3df CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_line    0x000012a8      0x3b3 CMakeFiles/stm32-template.dir/src/main.c.obj
+ .debug_line    0x0000165b       0xc0 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
 
-.debug_str      0x00000000      0x888
- .debug_str     0x00000000      0x888 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
+.debug_str      0x00000000      0x8b7
+ .debug_str     0x00000000      0x8b7 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
                                 0x29c (size before relaxing)
- .debug_str     0x00000888      0x253 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
- .debug_str     0x00000888      0x28c CMakeFiles/stm32-template.dir/Motor/motor.c.obj
- .debug_str     0x00000888      0x2bc CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
- .debug_str     0x00000888      0x239 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
- .debug_str     0x00000888      0x277 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
- .debug_str     0x00000888      0x337 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
- .debug_str     0x00000888      0x384 CMakeFiles/stm32-template.dir/src/main.c.obj
- .debug_str     0x00000888       0xd4 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
+ .debug_str     0x000008b7      0x253 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
+ .debug_str     0x000008b7      0x28c CMakeFiles/stm32-template.dir/Motor/motor.c.obj
+ .debug_str     0x000008b7      0x2bc CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
+ .debug_str     0x000008b7      0x239 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
+ .debug_str     0x000008b7      0x277 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
+ .debug_str     0x000008b7      0x36c CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_str     0x000008b7      0x3ac CMakeFiles/stm32-template.dir/src/main.c.obj
+ .debug_str     0x000008b7       0xd4 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
 
 .comment        0x00000000       0x45
  .comment       0x00000000       0x45 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
@@ -891,13 +893,13 @@ LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-no
  .comment       0x00000045       0x46 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
  .comment       0x00000045       0x46 CMakeFiles/stm32-template.dir/src/main.c.obj
 
-.debug_frame    0x00000000      0x5fc
+.debug_frame    0x00000000      0x620
  .debug_frame   0x00000000       0x54 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
  .debug_frame   0x00000054       0x8c CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
  .debug_frame   0x000000e0       0x90 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
  .debug_frame   0x00000170       0xa0 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
  .debug_frame   0x00000210       0x80 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
  .debug_frame   0x00000290       0x84 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
- .debug_frame   0x00000314      0x1ac CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
- .debug_frame   0x000004c0      0x110 CMakeFiles/stm32-template.dir/src/main.c.obj
- .debug_frame   0x000005d0       0x2c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-init.o)
+ .debug_frame   0x00000314      0x1d0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_frame   0x000004e4      0x110 CMakeFiles/stm32-template.dir/src/main.c.obj
+ .debug_frame   0x000005f4       0x2c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-init.o)

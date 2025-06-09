@@ -118,7 +118,8 @@ void check_object_detection() {
 }
 
 void Display_motor_speed(uint16 duty_cycle_percent) {
-	LCD_SetCursor(1, 1);
-	LCD_SendString("Motor:");
-	LCD_PrintNumber(duty_cycle_percent);
+	LCD_SetCursor(1, 0);  // Start from beginning of second line
+	LCD_SendString("Motor: ");
+	LCD_PrintNumber_FixedWidth(duty_cycle_percent, 3);  // Fixed width of 3 characters
+	LCD_SendData('%');  // Add percentage symbol
 }

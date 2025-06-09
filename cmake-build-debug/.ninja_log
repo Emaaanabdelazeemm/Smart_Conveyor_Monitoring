@@ -54,3 +54,12 @@
 65	981	7711947263245810	CMakeFiles/stm32-template.dir/src/main.c.obj	b0d25ca4a8f6d753
 49	981	7711947263084642	CMakeFiles/stm32-template.dir/PWM/PWM.c.obj	8ec2765165a29021
 981	1283	7711947272402392	stm32-template.elf	5b71e6f51d9b0d4a
+41	1010	7711959760760962	CMakeFiles/stm32-template.dir/PWM/PWM.c.obj	8ec2765165a29021
+1011	1233	7711959770455573	stm32-template.elf	5b71e6f51d9b0d4a
+33	149	7711967286707236	CMakeFiles/stm32-template.dir/src/main.c.obj	b0d25ca4a8f6d753
+150	385	7711967287874330	stm32-template.elf	5b71e6f51d9b0d4a
+34	125	7711967765488712	CMakeFiles/stm32-template.dir/src/main.c.obj	b0d25ca4a8f6d753
+125	329	7711967766403753	stm32-template.elf	5b71e6f51d9b0d4a
+60	179	7711988540073304	CMakeFiles/stm32-template.dir/src/main.c.obj	b0d25ca4a8f6d753
+49	207	7711988539917038	CMakeFiles/stm32-template.dir/lcd/lcd.c.obj	fecc57ddf67f1373
+207	508	7711988541568123	stm32-template.elf	5b71e6f51d9b0d4a

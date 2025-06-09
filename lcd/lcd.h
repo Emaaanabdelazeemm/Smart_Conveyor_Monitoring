@@ -41,6 +41,7 @@ void LCD_SendString(const char* str);
 void LCD_SetCursor(uint8 row, uint8 col);
 void LCD_Clear(void);
 void LCD_PrintNumber(uint32 number);
+void LCD_PrintNumber_FixedWidth(uint32 number, uint8 width);
 void LCD_PrintFloat(float number, uint8 decimal_places);
 
 // Private helper functions
