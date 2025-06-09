@@ -5,6 +5,7 @@
 #include"../PWM/PWM.h"
 #include "../Motor/motor.h"
 #include"../lcd/lcd.h"
+#include "../Timer/Timer.h"
 
 
 
@@ -12,8 +13,8 @@
 #define POT_PIN     1
 #define POT_CHANNEL ADC_IN1
 
-#define motor_IN1_PIN 0
-#define motor_IN2_PIN 1
+#define motor_IN1_PIN 15
+#define motor_IN2_PIN 14
 
 #define IR_Push_button_pin 9
 
@@ -52,15 +53,22 @@ void setup(void)
 	Rcc_Enable(RCC_GPIOA);
 	Rcc_Enable(RCC_GPIOB);
 	Rcc_Enable(RCC_SYSCFG);
+	Rcc_Enable(RCC_TIM2);
 
-	Init_Motor(1, 50);
+
+
+	Init_Motor(TIM2_CH3, 50);
 	LCD_Init();
+	TIM_Init(TIM_CH1);
 	ADC_INIT(POT_PORT, POT_PIN, POT_CHANNEL);
 	Gpio_Init(GPIO_B, motor_IN1_PIN, GPIO_OUTPUT, GPIO_PUSH_PULL);
 	Gpio_Init(GPIO_B, motor_IN2_PIN, GPIO_OUTPUT, GPIO_PUSH_PULL);
 	Gpio_Init(GPIO_B, IR_Push_button_pin, GPIO_INPUT, GPIO_PULL_UP);
-	Gpio_WritePin(GPIO_B,motor_IN1_PIN , LOW);
-	Gpio_WritePin(GPIO_B, motor_IN2_PIN, HIGH);
+	Gpio_WritePin(GPIO_A,motor_IN1_PIN , LOW);
+	Gpio_WritePin(GPIO_A, motor_IN2_PIN, HIGH);
+	//led for timer
+	Gpio_Init(GPIO_A, 7, GPIO_OUTPUT, GPIO_PUSH_PULL);
+	Gpio_WritePin(GPIO_A, 7, HIGH);
 }
 
 void loop(void) {
@@ -69,6 +77,13 @@ void loop(void) {
 	Set_Motor_Speed(duty_cycle_percent);
 	Display_motor_speed(duty_cycle_percent);
 	check_object_detection();
+	uint32 pulse_width = TIM_GetCaptureValue();
+	// Toggle LED if valid pulse detected
+	if(pulse_width > 0) {
+		Gpio_WritePin(GPIO_A, 7, LOW);
+	}
+
+
 
 }
 
@@ -77,7 +92,7 @@ void loop(void) {
 uint16 read_duty_cycle(void)
 {
 	uint16 digital_value = ADC_CONVERSION();  // Read ADC value
-	uint16 duty_cycle_percent = ((uint32)digital_value * 100U) / 4095U;
+	uint16 duty_cycle_percent = ((uint16)digital_value * 100U) / 4095U;
 
 	return duty_cycle_percent;  // Convert to percentage (0-100%)
 }

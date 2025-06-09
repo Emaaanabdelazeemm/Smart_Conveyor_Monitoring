@@ -29,7 +29,10 @@ add_executable(${EXECUTABLE} ${SOURCE_LIST} ${STARTUP_BASE_DIR}/${SERIES_FOLDER}
         PWM/PWM_PRIVATE.h
         PWM/PWM.h
         PWM/PWM_Config.h
-        ADC/ADC_Config.h)
+        ADC/ADC_Config.h
+        Timer/Timer.c
+        Timer/Timer.h
+        Timer/Timer_Private.h)
 # Include
 target_include_directories(${EXECUTABLE} PUBLIC ${INCLUDE_LIST})
 # Project symbols

@@ -94,6 +94,16 @@ build CMakeFiles/stm32-template.dir/RCC/RCC.c.obj: C_COMPILER__stm32-template_un
   TARGET_COMPILE_PDB = CMakeFiles\stm32-template.dir\
   TARGET_PDB = stm32-template.pdb
 
+build CMakeFiles/stm32-template.dir/Timer/Timer.c.obj: C_COMPILER__stm32-template_unscanned_ C$:/Users/dell/Desktop/Embedded$ project/Smart_Conveyor_Monitoring/Timer/Timer.c || cmake_object_order_depends_target_stm32-template
+  DEFINES = -DCALL_ARM_SYSTEM_INIT -DHSE_VALUE=8000000 -DNDEBUG -DSTM32F401xE
+  DEP_FILE = CMakeFiles\stm32-template.dir\Timer\Timer.c.obj.d
+  FLAGS = -std=gnu11 -fdiagnostics-color=always -mthumb -mcpu=cortex-m4 -mfloat-abi=soft -O0 -Wall -Wextra -g -gdwarf-2 -Wpedantic -Wno-unused-parameter
+  INCLUDES = -I"C:/Users/dell/Desktop/Embedded project/Smart_Conveyor_Monitoring/STM32-base/startup" -I"C:/Users/dell/Desktop/Embedded project/Smart_Conveyor_Monitoring/STM32-base-STM32Cube/CMSIS/ARM/inc" -I"C:/Users/dell/Desktop/Embedded project/Smart_Conveyor_Monitoring/STM32-base-STM32Cube/CMSIS/STM32F4xx/inc" -I"C:/Users/dell/Desktop/Embedded project/Smart_Conveyor_Monitoring/include"
+  OBJECT_DIR = CMakeFiles\stm32-template.dir
+  OBJECT_FILE_DIR = CMakeFiles\stm32-template.dir\Timer
+  TARGET_COMPILE_PDB = CMakeFiles\stm32-template.dir\
+  TARGET_PDB = stm32-template.pdb
+
 build CMakeFiles/stm32-template.dir/lcd/lcd.c.obj: C_COMPILER__stm32-template_unscanned_ C$:/Users/dell/Desktop/Embedded$ project/Smart_Conveyor_Monitoring/lcd/lcd.c || cmake_object_order_depends_target_stm32-template
   DEFINES = -DCALL_ARM_SYSTEM_INIT -DHSE_VALUE=8000000 -DNDEBUG -DSTM32F401xE
   DEP_FILE = CMakeFiles\stm32-template.dir\lcd\lcd.c.obj.d
@@ -142,7 +152,7 @@ build CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.o
 #############################################
 # Link the executable stm32-template.elf
 
-build stm32-template.elf: C_EXECUTABLE_LINKER__stm32-template_ CMakeFiles/stm32-template.dir/ADC/ADC.c.obj CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj CMakeFiles/stm32-template.dir/Motor/motor.c.obj CMakeFiles/stm32-template.dir/PWM/PWM.c.obj CMakeFiles/stm32-template.dir/RCC/RCC.c.obj CMakeFiles/stm32-template.dir/lcd/lcd.c.obj CMakeFiles/stm32-template.dir/src/main.c.obj CMakeFiles/stm32-template.dir/STM32-base-STM32Cube/CMSIS/STM32F4xx/src/system_stm32f4xx.c.obj CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
+build stm32-template.elf: C_EXECUTABLE_LINKER__stm32-template_ CMakeFiles/stm32-template.dir/ADC/ADC.c.obj CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj CMakeFiles/stm32-template.dir/Motor/motor.c.obj CMakeFiles/stm32-template.dir/PWM/PWM.c.obj CMakeFiles/stm32-template.dir/RCC/RCC.c.obj CMakeFiles/stm32-template.dir/Timer/Timer.c.obj CMakeFiles/stm32-template.dir/lcd/lcd.c.obj CMakeFiles/stm32-template.dir/src/main.c.obj CMakeFiles/stm32-template.dir/STM32-base-STM32Cube/CMSIS/STM32F4xx/src/system_stm32f4xx.c.obj CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
   LINK_FLAGS = -mthumb -mcpu=cortex-m4 -mfloat-abi=soft -O0 -Wall -Wextra -g -gdwarf-2 "-LC:/Users/dell/Desktop/Embedded project/Smart_Conveyor_Monitoring/STM32-base/linker/" "-TC:/Users/dell/Desktop/Embedded project/Smart_Conveyor_Monitoring/STM32-base/linker//STM32F4xx/STM32F401xE.ld" -Xlinker --gc-sections -Wl,-Map=stm32-template.map --specs=nano.specs
   OBJECT_DIR = CMakeFiles\stm32-template.dir
   POST_BUILD = C:\WINDOWS\system32\cmd.exe /C "cd /D "C:\Users\dell\Desktop\Embedded project\Smart_Conveyor_Monitoring\cmake-build-debug" && C:\Users\dell\Downloads\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\bin\arm-none-eabi-size.exe "C:/Users/dell/Desktop/Embedded project/Smart_Conveyor_Monitoring/cmake-build-debug/stm32-template.elf" && cd /D "C:\Users\dell\Desktop\Embedded project\Smart_Conveyor_Monitoring\cmake-build-debug" && C:\Users\dell\Downloads\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\bin\arm-none-eabi-objcopy.exe -O ihex "C:/Users/dell/Desktop/Embedded project/Smart_Conveyor_Monitoring/cmake-build-debug/stm32-template.elf" stm32-template.hex && cd /D "C:\Users\dell\Desktop\Embedded project\Smart_Conveyor_Monitoring\cmake-build-debug" && C:\Users\dell\Downloads\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\bin\arm-none-eabi-objcopy.exe -O binary "C:/Users/dell/Desktop/Embedded project/Smart_Conveyor_Monitoring/cmake-build-debug/stm32-template.elf" stm32-template.bin"

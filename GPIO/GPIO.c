@@ -1,6 +1,4 @@
 
-
-
 #include <../LIB/Std_Types.h>
 #include "GPIO.h"
 #include "../LIB/Utils.h"
@@ -13,14 +11,26 @@ void Gpio_Init(uint8 PortName, uint8 PinNumber, uint8 PinMode, uint8 DefaultStat
         	GPIOA_MODER &= ~(0x03 << (PinNumber * 2));
 			GPIOA_MODER |= (PinMode << (PinNumber * 2));
 
-			if (PinMode == GPIO_INPUT) {
-				GPIOA_PUPDR &= ~(0x03 << (PinNumber * 2));
-				GPIOA_PUPDR |= (DefaultState << (PinNumber * 2));
-			} else {
-				GPIOA_OTYPER  &=~(0x1 << PinNumber);
-				GPIOA_OTYPER  |= (DefaultState << (PinNumber));
-			}
-            break;
+    	if (PinMode == GPIO_INPUT) {
+    		GPIOA_PUPDR &= ~(0x03 << (PinNumber * 2));
+    		GPIOA_PUPDR |= (DefaultState << (PinNumber * 2));
+    	}
+    	else if (PinMode == GPIO_OUTPUT) {
+    		GPIOA_OTYPER &= ~(0x1 << PinNumber);
+    		GPIOA_OTYPER |= (DefaultState << PinNumber);
+    	}
+    	else if (PinMode == GPIO_AF) {
+    		// Configure Alternate Function (AF01 for TIM2_CH1)
+    		if(PinNumber < 8) {
+    			GPIOA_AFRL &= ~(0xF << (PinNumber * 4)); // Clear AF bits
+    			GPIOA_AFRL |= (1 << (PinNumber * 4));    // AF01 for TIM2_CH1
+
+    		} else {
+    			GPIOA_AFRH &= ~(0xF << ((PinNumber-8) * 4));
+    			GPIOA_AFRH |= (1 << ((PinNumber-8) * 4));
+    		}
+    	}
+    	break;
 
         case GPIO_B:
             GPIOB_MODER &= ~(0x03 << (PinNumber * 2));
@@ -29,15 +39,21 @@ void Gpio_Init(uint8 PortName, uint8 PinNumber, uint8 PinMode, uint8 DefaultStat
             if (PinMode == GPIO_INPUT) {
                 GPIOB_PUPDR &= ~(0x03 << (PinNumber * 2));
                 GPIOB_PUPDR |= (DefaultState << (PinNumber * 2));
-            } else {
+            }
+    		else if (PinMode == GPIO_OUTPUT) {
                 GPIOB_OTYPER  &=~(0x1 << PinNumber);
                 GPIOB_OTYPER  |= (DefaultState << (PinNumber));
-                // if (DefaultState == GPIO_PUSH_PULL) {
-                //     CLEAR_BIT(GPIOB_OTYPER, PinNumber);
-                // }else if (DefaultState == GPIO_OPEN_DRAIN) {
-                //     SET_BIT(GPIOB_OTYPER, PinNumber);
-                // }
             }
+    		else if (PinMode == GPIO_AF) {
+    			// Configure Alternate Function (AF01 for TIM2_CH1)
+    			if(PinNumber < 8) {
+    				GPIOB_AFRL &= ~(0xF << (PinNumber * 4)); // Clear AF bits
+    				GPIOB_AFRL |= (1 << (PinNumber * 4));    // AF01 for TIM2_CH1
+    			} else {
+    				GPIOB_AFRH &= ~(0xF << ((PinNumber-8) * 4));
+    				GPIOB_AFRH |= (1 << ((PinNumber-8) * 4));
+    			}
+    		}
             break;
 
         case GPIO_C:
@@ -47,9 +63,20 @@ void Gpio_Init(uint8 PortName, uint8 PinNumber, uint8 PinMode, uint8 DefaultStat
 			if (PinMode == GPIO_INPUT) {
 				GPIOC_PUPDR &= ~(0x03 << (PinNumber * 2));
 				GPIOC_PUPDR |= (DefaultState << (PinNumber * 2));
-			} else {
+			}
+			else if (PinMode == GPIO_OUTPUT) {
 				GPIOC_OTYPER  &=~(0x1 << PinNumber);
 				GPIOC_OTYPER  |= (DefaultState << (PinNumber));
+			}
+			else if (PinMode == GPIO_AF) {
+				// Configure Alternate Function (AF01 for TIM2_CH1)
+				if(PinNumber < 8) {
+					GPIOC_AFRL &= ~(0xF << (PinNumber * 4)); // Clear AF bits
+					GPIOC_AFRL |= (1 << (PinNumber * 4));    // AF01 for TIM2_CH1
+				} else {
+					GPIOC_AFRH &= ~(0xF << ((PinNumber-8) * 4));
+					GPIOC_AFRH |= (1 << ((PinNumber-8) * 4));
+				}
 			}
         	break;
 

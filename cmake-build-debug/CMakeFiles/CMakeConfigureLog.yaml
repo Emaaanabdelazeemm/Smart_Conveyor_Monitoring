@@ -70,8 +70,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/dell/Desktop/Embedded project/Smart_Conveyor_Monitoring/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a8axb3"
-      binary: "C:/Users/dell/Desktop/Embedded project/Smart_Conveyor_Monitoring/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a8axb3"
+      source: "C:/Users/dell/Desktop/Embedded project/Smart_Conveyor_Monitoring/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-15nnsi"
+      binary: "C:/Users/dell/Desktop/Embedded project/Smart_Conveyor_Monitoring/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-15nnsi"
     cmakeVariables:
       CMAKE_C_FLAGS: ""
       CMAKE_C_FLAGS_DEBUG: "-g"
@@ -80,10 +80,10 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/dell/Desktop/Embedded project/Smart_Conveyor_Monitoring/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a8axb3'
+        Change Dir: 'C:/Users/dell/Desktop/Embedded project/Smart_Conveyor_Monitoring/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-15nnsi'
         
-        Run Build Command(s): "D:/Program Files/JetBrains/CLion 2025.1/bin/ninja/win/x64/ninja.exe" -v cmTC_87753
-        [1/2] C:\\Users\\dell\\Downloads\\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -fdata-sections -ffunction-sections -fsigned-char -fmessage-length=0 -ffreestanding   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_87753.dir/CMakeCCompilerABI.c.obj -c "D:/Program Files/JetBrains/CLion 2025.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCCompilerABI.c"
+        Run Build Command(s): "D:/Program Files/JetBrains/CLion 2025.1/bin/ninja/win/x64/ninja.exe" -v cmTC_b1b51
+        [1/2] C:\\Users\\dell\\Downloads\\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -fdata-sections -ffunction-sections -fsigned-char -fmessage-length=0 -ffreestanding   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_b1b51.dir/CMakeCCompilerABI.c.obj -c "D:/Program Files/JetBrains/CLion 2025.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCCompilerABI.c"
         Using built-in specs.
         COLLECT_GCC=C:\\Users\\dell\\Downloads\\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe
         Target: arm-none-eabi
@@ -91,8 +91,8 @@ events:
         Thread model: single
         Supported LTO compression algorithms: zlib
         gcc version 14.2.1 20241119 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-fdata-sections' '-ffunction-sections' '-fsigned-char' '-fmessage-length=0' '-ffreestanding' '-v' '-o' 'CMakeFiles/cmTC_87753.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_87753.dir/'
-         C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1.exe -quiet -v -iprefix C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -D__USES_INITFINI__ D:/Program Files/JetBrains/CLion 2025.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_87753.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -fdata-sections -ffunction-sections -fsigned-char -fmessage-length=0 -ffreestanding -o C:\\Users\\dell\\AppData\\Local\\Temp\\cc8t4Gwk.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-fdata-sections' '-ffunction-sections' '-fsigned-char' '-fmessage-length=0' '-ffreestanding' '-v' '-o' 'CMakeFiles/cmTC_b1b51.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_b1b51.dir/'
+         C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1.exe -quiet -v -iprefix C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -D__USES_INITFINI__ D:/Program Files/JetBrains/CLion 2025.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_b1b51.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -fdata-sections -ffunction-sections -fsigned-char -fmessage-length=0 -ffreestanding -o C:\\Users\\dell\\AppData\\Local\\Temp\\ccMhVggI.s
         GNU C17 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) version 14.2.1 20241119 (arm-none-eabi)
         	compiled by GNU C version 9.3-win32 20200320, GMP version 6.2.1, MPFR version 3.1.6, MPC version 1.0.3, isl version isl-0.15-1-g835ea3a-GMP
         
@@ -109,13 +109,13 @@ events:
          C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/include
         End of search list.
         Compiler executable checksum: c3ae4274e7df52e7e88f1bdbad8fa7fc
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-fdata-sections' '-ffunction-sections' '-fsigned-char' '-fmessage-length=0' '-ffreestanding' '-v' '-o' 'CMakeFiles/cmTC_87753.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_87753.dir/'
-         C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_87753.dir/CMakeCCompilerABI.c.obj C:\\Users\\dell\\AppData\\Local\\Temp\\cc8t4Gwk.s
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-fdata-sections' '-ffunction-sections' '-fsigned-char' '-fmessage-length=0' '-ffreestanding' '-v' '-o' 'CMakeFiles/cmTC_b1b51.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_b1b51.dir/'
+         C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_b1b51.dir/CMakeCCompilerABI.c.obj C:\\Users\\dell\\AppData\\Local\\Temp\\ccMhVggI.s
         GNU assembler version 2.43.1 (arm-none-eabi) using BFD version (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 2.43.1.20241119
         COMPILER_PATH=C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/14.2.1/;C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/;C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/
         LIBRARY_PATH=C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/;C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/;C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/;C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/\x0d
-        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-fdata-sections' '-ffunction-sections' '-fsigned-char' '-fmessage-length=0' '-ffreestanding' '-v' '-o' 'CMakeFiles/cmTC_87753.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_87753.dir/CMakeCCompilerABI.c.'\x0d
-        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "D:\\Program Files\\JetBrains\\CLion 2025.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f libcmTC_87753.a && C:\\Users\\dell\\Downloads\\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-ar.exe qc libcmTC_87753.a  CMakeFiles/cmTC_87753.dir/CMakeCCompilerABI.c.obj && C:\\Users\\dell\\Downloads\\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-ranlib.exe libcmTC_87753.a && cd ."
+        COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-fdata-sections' '-ffunction-sections' '-fsigned-char' '-fmessage-length=0' '-ffreestanding' '-v' '-o' 'CMakeFiles/cmTC_b1b51.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_b1b51.dir/CMakeCCompilerABI.c.'\x0d
+        [2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "D:\\Program Files\\JetBrains\\CLion 2025.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f libcmTC_b1b51.a && C:\\Users\\dell\\Downloads\\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-ar.exe qc libcmTC_b1b51.a  CMakeFiles/cmTC_b1b51.dir/CMakeCCompilerABI.c.obj && C:\\Users\\dell\\Downloads\\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-ranlib.exe libcmTC_b1b51.a && cd ."
         
       exitCode: 0
   -
@@ -148,10 +148,10 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(\\.[a-z]+)?|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|")?[ 	]*(([^"]*[/\\])?(ld[0-9]*(\\.[a-z]+)?))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/dell/Desktop/Embedded project/Smart_Conveyor_Monitoring/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-a8axb3']
+        ignore line: [Change Dir: 'C:/Users/dell/Desktop/Embedded project/Smart_Conveyor_Monitoring/cmake-build-debug/CMakeFiles/CMakeScratch/TryCompile-15nnsi']
         ignore line: []
-        ignore line: [Run Build Command(s): "D:/Program Files/JetBrains/CLion 2025.1/bin/ninja/win/x64/ninja.exe" -v cmTC_87753]
-        ignore line: [[1/2] C:\\Users\\dell\\Downloads\\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -fdata-sections -ffunction-sections -fsigned-char -fmessage-length=0 -ffreestanding   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_87753.dir/CMakeCCompilerABI.c.obj -c "D:/Program Files/JetBrains/CLion 2025.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCCompilerABI.c"]
+        ignore line: [Run Build Command(s): "D:/Program Files/JetBrains/CLion 2025.1/bin/ninja/win/x64/ninja.exe" -v cmTC_b1b51]
+        ignore line: [[1/2] C:\\Users\\dell\\Downloads\\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe -fdata-sections -ffunction-sections -fsigned-char -fmessage-length=0 -ffreestanding   -fdiagnostics-color=always   -v -o CMakeFiles/cmTC_b1b51.dir/CMakeCCompilerABI.c.obj -c "D:/Program Files/JetBrains/CLion 2025.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCCompilerABI.c"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\Users\\dell\\Downloads\\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-gcc.exe]
         ignore line: [Target: arm-none-eabi]
@@ -159,8 +159,8 @@ events:
         ignore line: [Thread model: single]
         ignore line: [Supported LTO compression algorithms: zlib]
         ignore line: [gcc version 14.2.1 20241119 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-fdata-sections' '-ffunction-sections' '-fsigned-char' '-fmessage-length=0' '-ffreestanding' '-v' '-o' 'CMakeFiles/cmTC_87753.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_87753.dir/']
-        ignore line: [ C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1.exe -quiet -v -iprefix C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -D__USES_INITFINI__ D:/Program Files/JetBrains/CLion 2025.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_87753.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -fdata-sections -ffunction-sections -fsigned-char -fmessage-length=0 -ffreestanding -o C:\\Users\\dell\\AppData\\Local\\Temp\\cc8t4Gwk.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-fdata-sections' '-ffunction-sections' '-fsigned-char' '-fmessage-length=0' '-ffreestanding' '-v' '-o' 'CMakeFiles/cmTC_b1b51.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_b1b51.dir/']
+        ignore line: [ C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/14.2.1/cc1.exe -quiet -v -iprefix C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/ -isysroot C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi -D__USES_INITFINI__ D:/Program Files/JetBrains/CLion 2025.1/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles/cmTC_b1b51.dir/ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mcpu=arm7tdmi -mfloat-abi=soft -marm -mlibarch=armv4t -march=armv4t -version -fdiagnostics-color=always -fdata-sections -ffunction-sections -fsigned-char -fmessage-length=0 -ffreestanding -o C:\\Users\\dell\\AppData\\Local\\Temp\\ccMhVggI.s]
         ignore line: [GNU C17 (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) version 14.2.1 20241119 (arm-none-eabi)]
         ignore line: [	compiled by GNU C version 9.3-win32 20200320  GMP version 6.2.1  MPFR version 3.1.6  MPC version 1.0.3  isl version isl-0.15-1-g835ea3a-GMP]
         ignore line: []
@@ -177,8 +177,8 @@ events:
         ignore line: [ C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/include]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: c3ae4274e7df52e7e88f1bdbad8fa7fc]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-fdata-sections' '-ffunction-sections' '-fsigned-char' '-fmessage-length=0' '-ffreestanding' '-v' '-o' 'CMakeFiles/cmTC_87753.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_87753.dir/']
-        ignore line: [ C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_87753.dir/CMakeCCompilerABI.c.obj C:\\Users\\dell\\AppData\\Local\\Temp\\cc8t4Gwk.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-fdata-sections' '-ffunction-sections' '-fsigned-char' '-fmessage-length=0' '-ffreestanding' '-v' '-o' 'CMakeFiles/cmTC_b1b51.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_b1b51.dir/']
+        ignore line: [ C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv4t -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_b1b51.dir/CMakeCCompilerABI.c.obj C:\\Users\\dell\\AppData\\Local\\Temp\\ccMhVggI.s]
         ignore line: [GNU assembler version 2.43.1 (arm-none-eabi) using BFD version (Arm GNU Toolchain 14.2.Rel1 (Build arm-14.52)) 2.43.1.20241119]
         ignore line: [COMPILER_PATH=C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/arm-none-eabi/14.2.1/]
         ignore line: [C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../libexec/gcc/]
@@ -187,8 +187,8 @@ events:
         ignore line: [C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/]
         ignore line: [C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/../../../../arm-none-eabi/lib/]
         ignore line: [C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../arm-none-eabi/lib/\x0d]
-        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-fdata-sections' '-ffunction-sections' '-fsigned-char' '-fmessage-length=0' '-ffreestanding' '-v' '-o' 'CMakeFiles/cmTC_87753.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_87753.dir/CMakeCCompilerABI.c.'\x0d]
-        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "D:\\Program Files\\JetBrains\\CLion 2025.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f libcmTC_87753.a && C:\\Users\\dell\\Downloads\\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-ar.exe qc libcmTC_87753.a  CMakeFiles/cmTC_87753.dir/CMakeCCompilerABI.c.obj && C:\\Users\\dell\\Downloads\\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-ranlib.exe libcmTC_87753.a && cd ."]
+        ignore line: [COLLECT_GCC_OPTIONS='-fdiagnostics-color=always' '-fdata-sections' '-ffunction-sections' '-fsigned-char' '-fmessage-length=0' '-ffreestanding' '-v' '-o' 'CMakeFiles/cmTC_b1b51.dir/CMakeCCompilerABI.c.obj' '-c' '-mcpu=arm7tdmi' '-mfloat-abi=soft' '-marm' '-mlibarch=armv4t' '-march=armv4t' '-dumpdir' 'CMakeFiles/cmTC_b1b51.dir/CMakeCCompilerABI.c.'\x0d]
+        ignore line: [[2/2] C:\\WINDOWS\\system32\\cmd.exe /C "cd . && "D:\\Program Files\\JetBrains\\CLion 2025.1\\bin\\cmake\\win\\x64\\bin\\cmake.exe" -E rm -f libcmTC_b1b51.a && C:\\Users\\dell\\Downloads\\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-ar.exe qc libcmTC_b1b51.a  CMakeFiles/cmTC_b1b51.dir/CMakeCCompilerABI.c.obj && C:\\Users\\dell\\Downloads\\arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi\\bin\\arm-none-eabi-ranlib.exe libcmTC_b1b51.a && cd ."]
         ignore line: []
         ignore line: []
         implicit libs: []
