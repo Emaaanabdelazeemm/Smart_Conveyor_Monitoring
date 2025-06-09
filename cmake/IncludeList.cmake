@@ -12,6 +12,7 @@ set(SOURCES
         ADC/ADC.c
         lcd/lcd.c
         Motor/motor.c
+        EXTI/EXTI.C
 )
 if (USE_HAL)
     set(INCLUDE_LIST ${INCLUDE_LIST} ${PROJECT_PATH}/STM32-base-STM32Cube/HAL/${SERIES_FOLDER}/inc)

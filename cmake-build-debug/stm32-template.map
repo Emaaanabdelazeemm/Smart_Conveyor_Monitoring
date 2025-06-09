@@ -1,76 +1,81 @@
 Archive member included to satisfy reference by file (symbol)
 
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
                               CMakeFiles/stm32-template.dir/Timer/Timer.c.obj (__aeabi_fmul)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
                               CMakeFiles/stm32-template.dir/lcd/lcd.c.obj (__aeabi_fsub)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
                               CMakeFiles/stm32-template.dir/Timer/Timer.c.obj (__aeabi_fdiv)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
                               CMakeFiles/stm32-template.dir/lcd/lcd.c.obj (__aeabi_fcmplt)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
                               CMakeFiles/stm32-template.dir/lcd/lcd.c.obj (__aeabi_f2uiz)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o)
-                              C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o (exit)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
-                              C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o) (__stdio_exit_handler)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fwalk.o)
-                              C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o) (_fwalk_sglue)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
-                              C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o) (__sread)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-memset.o)
-                              C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o (memset)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-closer.o)
-                              C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o) (_close_r)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o)
-                              C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-closer.o) (errno)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-impure.o)
-                              C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o) (_impure_ptr)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lseekr.o)
-                              C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o) (_lseek_r)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-readr.o)
-                              C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o) (_read_r)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-writer.o)
-                              C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o) (_write_r)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-init.o)
-                              C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
-                              C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-freer.o)
-                              C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o) (_free_r)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
-                              C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o) (_malloc_r)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mlock.o)
-                              C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-freer.o) (__malloc_lock)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fflush.o)
-                              C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o) (_fflush_r)
-C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-sbrkr.o)
-                              C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o) (_sbrk_r)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o)
+                              D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o (exit)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+                              D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o) (__stdio_exit_handler)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fwalk.o)
+                              D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o) (_fwalk_sglue)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
+                              D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o) (__sread)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-memset.o)
+                              D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o (memset)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-closer.o)
+                              D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o) (_close_r)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o)
+                              D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-closer.o) (errno)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-impure.o)
+                              D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o) (_impure_ptr)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lseekr.o)
+                              D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o) (_lseek_r)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-readr.o)
+                              D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o) (_read_r)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-writer.o)
+                              D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o) (_write_r)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-init.o)
+                              D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                              D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o) (__retarget_lock_init_recursive)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-freer.o)
+                              D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o) (_free_r)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
+                              D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o) (_malloc_r)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mlock.o)
+                              D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-freer.o) (__malloc_lock)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fflush.o)
+                              D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o) (_fflush_r)
+D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-sbrkr.o)
+                              D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o) (_sbrk_r)
 
 Discarded input sections
 
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
  .rodata.all_implied_fbits
-                0x00000000       0x24 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x00000000       0x24 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
  .data.__dso_handle
-                0x00000000        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
- .text          0x00000000       0x7c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o
- .ARM.extab     0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o
- .ARM.exidx     0x00000000       0x10 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o
+                0x00000000        0x4 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x00000000       0x7c D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o
+ .ARM.extab     0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o
+ .ARM.exidx     0x00000000       0x10 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o
  .debug_line_str
-                0x00000000       0xd7 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o
+                0x00000000       0xd7 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o
  .ARM.attributes
-                0x00000000       0x1c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o
+                0x00000000       0x1c D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o
  .text          0x00000000        0x0 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
  .data          0x00000000        0x0 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
  .bss           0x00000000        0x0 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
+ .text          0x00000000        0x0 CMakeFiles/stm32-template.dir/EXTI/EXTI.c.obj
+ .data          0x00000000        0x0 CMakeFiles/stm32-template.dir/EXTI/EXTI.c.obj
+ .bss           0x00000000        0x0 CMakeFiles/stm32-template.dir/EXTI/EXTI.c.obj
+ .text.Exti_Disable
+                0x00000000       0x30 CMakeFiles/stm32-template.dir/EXTI/EXTI.c.obj
  .text          0x00000000        0x0 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
  .data          0x00000000        0x0 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
  .bss           0x00000000        0x0 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
@@ -79,14 +84,10 @@ Discarded input sections
  .bss           0x00000000        0x0 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
  .text.Start_Motor
                 0x00000000        0xc CMakeFiles/stm32-template.dir/Motor/motor.c.obj
- .text.Stop_Motor
-                0x00000000        0xc CMakeFiles/stm32-template.dir/Motor/motor.c.obj
  .text          0x00000000        0x0 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
  .data          0x00000000        0x0 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
  .bss           0x00000000        0x0 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
  .text.PWM_Start
-                0x00000000       0x1c CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
- .text.PWM_Stop
                 0x00000000       0x1c CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
  .text          0x00000000        0x0 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
  .data          0x00000000        0x0 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
@@ -103,8 +104,6 @@ Discarded input sections
  .text          0x00000000        0x0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
  .data          0x00000000        0x0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
  .bss           0x00000000        0x0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
- .text.LCD_Clear
-                0x00000000       0x14 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
  .text.LCD_PrintFloat
                 0x00000000       0xb0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
  .text          0x00000000        0x0 CMakeFiles/stm32-template.dir/src/main.c.obj
@@ -129,8 +128,8 @@ Discarded input sections
  .debug_aranges
                 0x00000000       0x28 CMakeFiles/stm32-template.dir/STM32-base-STM32Cube/CMSIS/STM32F4xx/src/system_stm32f4xx.c.obj
  .debug_ranges  0x00000000       0x18 CMakeFiles/stm32-template.dir/STM32-base-STM32Cube/CMSIS/STM32F4xx/src/system_stm32f4xx.c.obj
- .debug_line    0x00000000      0x2f4 CMakeFiles/stm32-template.dir/STM32-base-STM32Cube/CMSIS/STM32F4xx/src/system_stm32f4xx.c.obj
- .debug_str     0x00000000      0x3f0 CMakeFiles/stm32-template.dir/STM32-base-STM32Cube/CMSIS/STM32F4xx/src/system_stm32f4xx.c.obj
+ .debug_line    0x00000000      0x2ef CMakeFiles/stm32-template.dir/STM32-base-STM32Cube/CMSIS/STM32F4xx/src/system_stm32f4xx.c.obj
+ .debug_str     0x00000000      0x3e1 CMakeFiles/stm32-template.dir/STM32-base-STM32Cube/CMSIS/STM32F4xx/src/system_stm32f4xx.c.obj
  .comment       0x00000000       0x46 CMakeFiles/stm32-template.dir/STM32-base-STM32Cube/CMSIS/STM32F4xx/src/system_stm32f4xx.c.obj
  .debug_frame   0x00000000       0x58 CMakeFiles/stm32-template.dir/STM32-base-STM32Cube/CMSIS/STM32F4xx/src/system_stm32f4xx.c.obj
  .ARM.attributes
@@ -138,265 +137,265 @@ Discarded input sections
  .text          0x00000000       0x14 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
  .data          0x00000000        0x0 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
  .bss           0x00000000        0x0 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
- .text          0x00000000      0x168 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .text          0x00000000      0x168 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
  .debug_line_str
-                0x00000000       0xcf C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
- .debug_frame   0x00000000       0x24 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+                0x00000000       0xcf D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .debug_frame   0x00000000       0x24 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
  .ARM.attributes
-                0x00000000       0x1e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
- .text          0x00000000      0x21c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                0x00000000       0x1e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_mulsf3.o)
+ .text          0x00000000      0x21c D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
  .debug_line_str
-                0x00000000       0xcf C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
- .debug_frame   0x00000000       0x4c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+                0x00000000       0xcf D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .debug_frame   0x00000000       0x4c D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
  .ARM.attributes
-                0x00000000       0x1e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
- .text          0x00000000      0x2a0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+                0x00000000       0x1e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_addsubsf3.o)
+ .text          0x00000000      0x2a0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
  .debug_line_str
-                0x00000000       0xcf C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
- .debug_frame   0x00000000       0x38 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+                0x00000000       0xcf D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .debug_frame   0x00000000       0x38 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
  .ARM.attributes
-                0x00000000       0x1e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
- .text          0x00000000       0xec C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+                0x00000000       0x1e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_muldivsf3.o)
+ .text          0x00000000       0xec D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
  .debug_line_str
-                0x00000000       0xcf C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
- .debug_frame   0x00000000       0xc8 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+                0x00000000       0xcf D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .debug_frame   0x00000000       0xc8 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
  .ARM.attributes
-                0x00000000       0x1e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
- .text          0x00000000       0x40 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+                0x00000000       0x1e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_cmpsf2.o)
+ .text          0x00000000       0x40 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
  .debug_line_str
-                0x00000000       0xcf C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
- .debug_frame   0x00000000       0x24 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+                0x00000000       0xcf D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .debug_frame   0x00000000       0x24 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
  .ARM.attributes
-                0x00000000       0x1e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o)
- .text.exit     0x00000000       0x24 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o)
- .debug_frame   0x00000000       0x28 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o)
+                0x00000000       0x1e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a(_arm_fixunssfsi.o)
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o)
+ .text.exit     0x00000000       0x24 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o)
+ .debug_frame   0x00000000       0x28 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o)
  .ARM.attributes
-                0x00000000       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o)
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
- .text.std      0x00000000       0x6c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+                0x00000000       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-exit.o)
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+ .text.std      0x00000000       0x6c D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
  .text.stdio_exit_handler
-                0x00000000       0x18 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+                0x00000000       0x18 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
  .text.cleanup_stdio
-                0x00000000       0x40 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+                0x00000000       0x40 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
  .text.__fp_lock
-                0x00000000       0x18 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+                0x00000000       0x18 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
  .text.__fp_unlock
-                0x00000000       0x18 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+                0x00000000       0x18 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
  .text.global_stdio_init.part.0
-                0x00000000       0x40 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+                0x00000000       0x40 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
  .text.__sfp_lock_acquire
-                0x00000000        0xc C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+                0x00000000        0xc D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
  .text.__sfp_lock_release
-                0x00000000        0xc C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
- .text.__sfp    0x00000000       0xa4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
- .text.__sinit  0x00000000       0x30 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+                0x00000000        0xc D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+ .text.__sfp    0x00000000       0xa4 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+ .text.__sinit  0x00000000       0x30 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
  .text.__fp_lock_all
-                0x00000000       0x1c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+                0x00000000       0x1c D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
  .text.__fp_unlock_all
-                0x00000000       0x1c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
- .data.__sglue  0x00000000        0xc C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
- .bss.__sf      0x00000000      0x138 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+                0x00000000       0x1c D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+ .data.__sglue  0x00000000        0xc D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+ .bss.__sf      0x00000000      0x138 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
  .bss.__stdio_exit_handler
-                0x00000000        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
- .debug_frame   0x00000000      0x144 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+                0x00000000        0x4 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+ .debug_frame   0x00000000      0x144 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
  .ARM.attributes
-                0x00000000       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fwalk.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fwalk.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fwalk.o)
+                0x00000000       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-findfp.o)
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fwalk.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fwalk.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fwalk.o)
  .text._fwalk_sglue
-                0x00000000       0x3c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fwalk.o)
- .debug_frame   0x00000000       0x34 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fwalk.o)
+                0x00000000       0x3c D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fwalk.o)
+ .debug_frame   0x00000000       0x34 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fwalk.o)
  .ARM.attributes
-                0x00000000       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fwalk.o)
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
- .text.__sread  0x00000000       0x22 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
+                0x00000000       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fwalk.o)
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
+ .text.__sread  0x00000000       0x22 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
  .text.__seofread
-                0x00000000        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
+                0x00000000        0x4 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
  .text.__swrite
-                0x00000000       0x38 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
- .text.__sseek  0x00000000       0x26 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
+                0x00000000       0x38 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
+ .text.__sseek  0x00000000       0x26 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
  .text.__sclose
-                0x00000000        0x8 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
- .debug_frame   0x00000000       0x88 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
+                0x00000000        0x8 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
+ .debug_frame   0x00000000       0x88 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
  .ARM.attributes
-                0x00000000       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-memset.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-memset.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-memset.o)
- .text.memset   0x00000000       0x10 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-memset.o)
- .debug_frame   0x00000000       0x20 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-memset.o)
+                0x00000000       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-stdio.o)
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-memset.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-memset.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-memset.o)
+ .text.memset   0x00000000       0x10 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-memset.o)
+ .debug_frame   0x00000000       0x20 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-memset.o)
  .ARM.attributes
-                0x00000000       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-memset.o)
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-closer.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-closer.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-closer.o)
+                0x00000000       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-memset.o)
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-closer.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-closer.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-closer.o)
  .text._close_r
-                0x00000000       0x20 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-closer.o)
- .debug_frame   0x00000000       0x2c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-closer.o)
+                0x00000000       0x20 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-closer.o)
+ .debug_frame   0x00000000       0x2c D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-closer.o)
  .ARM.attributes
-                0x00000000       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-closer.o)
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o)
+                0x00000000       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-closer.o)
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o)
  .text._reclaim_reent
-                0x00000000       0xbc C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o)
- .bss.errno     0x00000000        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o)
- .debug_frame   0x00000000       0x38 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o)
+                0x00000000       0xbc D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o)
+ .bss.errno     0x00000000        0x4 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o)
+ .debug_frame   0x00000000       0x38 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o)
  .ARM.attributes
-                0x00000000       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o)
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-impure.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-impure.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-impure.o)
+                0x00000000       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-reent.o)
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-impure.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-impure.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-impure.o)
  .data._impure_ptr
-                0x00000000        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-impure.o)
+                0x00000000        0x4 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-impure.o)
  .data._impure_data
-                0x00000000       0x4c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-impure.o)
+                0x00000000       0x4c D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-impure.o)
  .ARM.attributes
-                0x00000000       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-impure.o)
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lseekr.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lseekr.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lseekr.o)
+                0x00000000       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-impure.o)
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lseekr.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lseekr.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lseekr.o)
  .text._lseek_r
-                0x00000000       0x24 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lseekr.o)
- .debug_frame   0x00000000       0x2c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lseekr.o)
+                0x00000000       0x24 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lseekr.o)
+ .debug_frame   0x00000000       0x2c D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lseekr.o)
  .ARM.attributes
-                0x00000000       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lseekr.o)
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-readr.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-readr.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-readr.o)
- .text._read_r  0x00000000       0x24 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-readr.o)
- .debug_frame   0x00000000       0x2c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-readr.o)
+                0x00000000       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lseekr.o)
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-readr.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-readr.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-readr.o)
+ .text._read_r  0x00000000       0x24 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-readr.o)
+ .debug_frame   0x00000000       0x2c D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-readr.o)
  .ARM.attributes
-                0x00000000       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-readr.o)
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-writer.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-writer.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-writer.o)
+                0x00000000       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-readr.o)
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-writer.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-writer.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-writer.o)
  .text._write_r
-                0x00000000       0x24 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-writer.o)
- .debug_frame   0x00000000       0x2c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-writer.o)
+                0x00000000       0x24 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-writer.o)
+ .debug_frame   0x00000000       0x2c D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-writer.o)
  .ARM.attributes
-                0x00000000       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-writer.o)
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-init.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-init.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-init.o)
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                0x00000000       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-writer.o)
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-init.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-init.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-init.o)
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
  .text.__retarget_lock_init
-                0x00000000        0x2 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                0x00000000        0x2 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
  .text.__retarget_lock_init_recursive
-                0x00000000        0x2 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                0x00000000        0x2 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
  .text.__retarget_lock_close
-                0x00000000        0x2 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                0x00000000        0x2 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
  .text.__retarget_lock_close_recursive
-                0x00000000        0x2 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                0x00000000        0x2 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
  .text.__retarget_lock_acquire
-                0x00000000        0x2 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                0x00000000        0x2 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
  .text.__retarget_lock_acquire_recursive
-                0x00000000        0x2 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                0x00000000        0x2 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
  .text.__retarget_lock_try_acquire
-                0x00000000        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                0x00000000        0x4 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
  .text.__retarget_lock_try_acquire_recursive
-                0x00000000        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                0x00000000        0x4 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
  .text.__retarget_lock_release
-                0x00000000        0x2 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                0x00000000        0x2 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
  .text.__retarget_lock_release_recursive
-                0x00000000        0x2 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                0x00000000        0x2 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
  .bss.__lock___arc4random_mutex
-                0x00000000        0x1 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                0x00000000        0x1 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
  .bss.__lock___dd_hash_mutex
-                0x00000000        0x1 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                0x00000000        0x1 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
  .bss.__lock___tz_mutex
-                0x00000000        0x1 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                0x00000000        0x1 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
  .bss.__lock___env_recursive_mutex
-                0x00000000        0x1 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                0x00000000        0x1 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
  .bss.__lock___malloc_recursive_mutex
-                0x00000000        0x1 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                0x00000000        0x1 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
  .bss.__lock___at_quick_exit_mutex
-                0x00000000        0x1 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                0x00000000        0x1 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
  .bss.__lock___atexit_recursive_mutex
-                0x00000000        0x1 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                0x00000000        0x1 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
  .bss.__lock___sfp_recursive_mutex
-                0x00000000        0x1 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
- .debug_frame   0x00000000       0xb0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+                0x00000000        0x1 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+ .debug_frame   0x00000000       0xb0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
  .ARM.attributes
-                0x00000000       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-freer.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-freer.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-freer.o)
- .text._free_r  0x00000000       0x94 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-freer.o)
- .debug_frame   0x00000000       0x38 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-freer.o)
+                0x00000000       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-lock.o)
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-freer.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-freer.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-freer.o)
+ .text._free_r  0x00000000       0x94 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-freer.o)
+ .debug_frame   0x00000000       0x38 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-freer.o)
  .ARM.attributes
-                0x00000000       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-freer.o)
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
+                0x00000000       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-freer.o)
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
  .text.sbrk_aligned
-                0x00000000       0x44 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
+                0x00000000       0x44 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
  .text._malloc_r
-                0x00000000      0x100 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
+                0x00000000      0x100 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
  .bss.__malloc_sbrk_start
-                0x00000000        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
+                0x00000000        0x4 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
  .bss.__malloc_free_list
-                0x00000000        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
- .debug_frame   0x00000000       0x50 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
+                0x00000000        0x4 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
+ .debug_frame   0x00000000       0x50 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
  .ARM.attributes
-                0x00000000       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mlock.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mlock.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mlock.o)
+                0x00000000       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mallocr.o)
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mlock.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mlock.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mlock.o)
  .text.__malloc_lock
-                0x00000000        0xc C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mlock.o)
+                0x00000000        0xc D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mlock.o)
  .text.__malloc_unlock
-                0x00000000        0xc C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mlock.o)
- .debug_frame   0x00000000       0x30 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mlock.o)
+                0x00000000        0xc D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mlock.o)
+ .debug_frame   0x00000000       0x30 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mlock.o)
  .ARM.attributes
-                0x00000000       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mlock.o)
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fflush.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fflush.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fflush.o)
+                0x00000000       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-mlock.o)
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fflush.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fflush.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fflush.o)
  .text.__sflush_r
-                0x00000000       0xfc C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fflush.o)
+                0x00000000       0xfc D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fflush.o)
  .text._fflush_r
-                0x00000000       0x50 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fflush.o)
- .text.fflush   0x00000000       0x28 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fflush.o)
- .debug_frame   0x00000000       0x5c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fflush.o)
+                0x00000000       0x50 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fflush.o)
+ .text.fflush   0x00000000       0x28 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fflush.o)
+ .debug_frame   0x00000000       0x5c D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fflush.o)
  .ARM.attributes
-                0x00000000       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fflush.o)
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-sbrkr.o)
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-sbrkr.o)
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-sbrkr.o)
- .text._sbrk_r  0x00000000       0x20 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-sbrkr.o)
- .debug_frame   0x00000000       0x2c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-sbrkr.o)
+                0x00000000       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-fflush.o)
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-sbrkr.o)
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-sbrkr.o)
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-sbrkr.o)
+ .text._sbrk_r  0x00000000       0x20 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-sbrkr.o)
+ .debug_frame   0x00000000       0x2c D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-sbrkr.o)
  .ARM.attributes
-                0x00000000       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-sbrkr.o)
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
+                0x00000000       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-sbrkr.o)
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
  .rodata.all_implied_fbits
-                0x00000000       0x24 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
- .eh_frame      0x00000000        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
- .text          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
- .data          0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
- .bss           0x00000000        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
+                0x00000000       0x24 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
+ .eh_frame      0x00000000        0x4 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
+ .data          0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
+ .bss           0x00000000        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
 
 Memory Configuration
 
@@ -408,10 +407,11 @@ CCMRAM           0x10000000         0x00000000         xrw
 
 Linker script and memory map
 
-LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
-LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
-LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o
+LOAD D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
+LOAD D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crt0.o
 LOAD CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
+LOAD CMakeFiles/stm32-template.dir/EXTI/EXTI.c.obj
 LOAD CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
 LOAD CMakeFiles/stm32-template.dir/Motor/motor.c.obj
 LOAD CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
@@ -422,16 +422,16 @@ LOAD CMakeFiles/stm32-template.dir/src/main.c.obj
 LOAD CMakeFiles/stm32-template.dir/STM32-base-STM32Cube/CMSIS/STM32F4xx/src/system_stm32f4xx.c.obj
 LOAD CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
 START GROUP
-LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a
-LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a
-LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libc_nano.a
+LOAD D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a
+LOAD D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libc_nano.a
 END GROUP
 START GROUP
-LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a
-LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libc_nano.a
+LOAD D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libc_nano.a
 END GROUP
-LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
-LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
+LOAD D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
+LOAD D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
                 0x20018000                        __end_stack = (ORIGIN (RAM) + LENGTH (RAM))
 
 .isr_vector     0x08000000      0x194
@@ -440,253 +440,273 @@ LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-no
  .isr_vector    0x08000000      0x194 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
                 0x08000194                        . = ALIGN (0x4)
 
-.text           0x08000194     0x1400
+.text           0x08000194     0x16b0
                 0x08000194                        . = ALIGN (0x4)
                 0x08000194                        __text_start = .
  *(.text)
  *(.text*)
  .text.deregister_tm_clones
-                0x08000194       0x1c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x08000194       0x1c D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
  .text.register_tm_clones
-                0x080001b0       0x24 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x080001b0       0x24 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
  .text.__do_global_dtors_aux
-                0x080001d4       0x28 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x080001d4       0x28 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
  .text.frame_dummy
-                0x080001fc       0x24 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x080001fc       0x24 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
  .text.ADC_INIT
                 0x08000220      0x120 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
                 0x08000220                ADC_INIT
  .text.ADC_CONVERSION
                 0x08000340       0x30 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
                 0x08000340                ADC_CONVERSION
+ .text.__NVIC_EnableIRQ
+                0x08000370       0x38 CMakeFiles/stm32-template.dir/EXTI/EXTI.c.obj
+ .text.Exti_Init
+                0x080003a8       0xe4 CMakeFiles/stm32-template.dir/EXTI/EXTI.c.obj
+                0x080003a8                Exti_Init
+ .text.Exti_Enable
+                0x0800048c       0x30 CMakeFiles/stm32-template.dir/EXTI/EXTI.c.obj
+                0x0800048c                Exti_Enable
  .text.Gpio_Init
-                0x08000370      0x448 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
-                0x08000370                Gpio_Init
+                0x080004bc      0x448 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
+                0x080004bc                Gpio_Init
  .text.Gpio_WritePin
-                0x080007b8      0x194 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
-                0x080007b8                Gpio_WritePin
+                0x08000904      0x194 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
+                0x08000904                Gpio_WritePin
  .text.Gpio_ReadPin
-                0x0800094c       0xa0 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
-                0x0800094c                Gpio_ReadPin
+                0x08000a98       0xa0 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
+                0x08000a98                Gpio_ReadPin
  .text.Init_Motor
-                0x080009ec       0x26 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
-                0x080009ec                Init_Motor
+                0x08000b38       0x26 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
+                0x08000b38                Init_Motor
+ .text.Stop_Motor
+                0x08000b5e       0x36 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
+                0x08000b5e                Stop_Motor
  .text.Set_Motor_Speed
-                0x08000a12       0x1a CMakeFiles/stm32-template.dir/Motor/motor.c.obj
-                0x08000a12                Set_Motor_Speed
+                0x08000b94       0x1a CMakeFiles/stm32-template.dir/Motor/motor.c.obj
+                0x08000b94                Set_Motor_Speed
+ *fill*         0x08000bae        0x2 
  .text.PWM_Init
-                0x08000a2c      0x2b8 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
-                0x08000a2c                PWM_Init
+                0x08000bb0      0x2b8 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
+                0x08000bb0                PWM_Init
  .text.PWM_SetDutyCycle
-                0x08000ce4       0x80 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
-                0x08000ce4                PWM_SetDutyCycle
+                0x08000e68       0x80 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
+                0x08000e68                PWM_SetDutyCycle
+ .text.PWM_Stop
+                0x08000ee8       0x1c CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
+                0x08000ee8                PWM_Stop
  .text.Rcc_Init
-                0x08000d64       0x1c CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
-                0x08000d64                Rcc_Init
+                0x08000f04       0x1c CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
+                0x08000f04                Rcc_Init
  .text.Rcc_Enable
-                0x08000d80       0xa8 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
-                0x08000d80                Rcc_Enable
+                0x08000f20       0xa8 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
+                0x08000f20                Rcc_Enable
  .text.TIM_Init
-                0x08000e28       0x98 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
-                0x08000e28                TIM_Init
+                0x08000fc8       0x98 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
+                0x08000fc8                TIM_Init
  .text.TIM_GetCaptureValue
-                0x08000ec0       0x50 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
-                0x08000ec0                TIM_GetCaptureValue
+                0x08001060       0x50 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
+                0x08001060                TIM_GetCaptureValue
  .text.LCD_Init
-                0x08000f10       0xc4 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
-                0x08000f10                LCD_Init
+                0x080010b0       0xc4 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+                0x080010b0                LCD_Init
  .text.LCD_SendCommand
-                0x08000fd4       0x3c CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
-                0x08000fd4                LCD_SendCommand
+                0x08001174       0x3c CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+                0x08001174                LCD_SendCommand
  .text.LCD_SendData
-                0x08001010       0x3c CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
-                0x08001010                LCD_SendData
+                0x080011b0       0x3c CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+                0x080011b0                LCD_SendData
  .text.LCD_SendNibble
-                0x0800104c       0x6a CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
-                0x0800104c                LCD_SendNibble
+                0x080011ec       0x6a CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+                0x080011ec                LCD_SendNibble
  .text.LCD_Pulse_Enable
-                0x080010b6       0x28 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
-                0x080010b6                LCD_Pulse_Enable
+                0x08001256       0x28 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+                0x08001256                LCD_Pulse_Enable
  .text.LCD_SendString
-                0x080010de       0x32 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
-                0x080010de                LCD_SendString
+                0x0800127e       0x32 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+                0x0800127e                LCD_SendString
  .text.LCD_SetCursor
-                0x08001110       0x40 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
-                0x08001110                LCD_SetCursor
+                0x080012b0       0x40 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+                0x080012b0                LCD_SetCursor
+ .text.LCD_Clear
+                0x080012f0       0x14 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+                0x080012f0                LCD_Clear
  .text.LCD_PrintNumber
-                0x08001150       0xb0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
-                0x08001150                LCD_PrintNumber
+                0x08001304       0xb0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+                0x08001304                LCD_PrintNumber
  .text.LCD_PrintNumber_FixedWidth
-                0x08001200       0xc0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
-                0x08001200                LCD_PrintNumber_FixedWidth
+                0x080013b4       0xc0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+                0x080013b4                LCD_PrintNumber_FixedWidth
  .text.LCD_Delay_ms
-                0x080012c0       0x30 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
-                0x080012c0                LCD_Delay_ms
+                0x08001474       0x30 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+                0x08001474                LCD_Delay_ms
  .text.LCD_Delay_us
-                0x080012f0       0x28 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
-                0x080012f0                LCD_Delay_us
- .text.main     0x08001318        0xe CMakeFiles/stm32-template.dir/src/main.c.obj
-                0x08001318                main
- .text.setup    0x08001326       0x8e CMakeFiles/stm32-template.dir/src/main.c.obj
-                0x08001326                setup
- .text.loop     0x080013b4       0x40 CMakeFiles/stm32-template.dir/src/main.c.obj
-                0x080013b4                loop
+                0x080014a4       0x28 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+                0x080014a4                LCD_Delay_us
+ .text.main     0x080014cc        0xe CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x080014cc                main
+ .text.setup    0x080014da       0xaa CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x080014da                setup
+ .text.loop     0x08001584       0xec CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x08001584                loop
  .text.read_duty_cycle
-                0x080013f4       0x34 CMakeFiles/stm32-template.dir/src/main.c.obj
-                0x080013f4                read_duty_cycle
+                0x08001670       0x34 CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x08001670                read_duty_cycle
  .text.Read_IR_button
-                0x08001428       0x12 CMakeFiles/stm32-template.dir/src/main.c.obj
-                0x08001428                Read_IR_button
- *fill*         0x0800143a        0x2 
+                0x080016a4       0x12 CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x080016a4                Read_IR_button
+ *fill*         0x080016b6        0x2 
  .text.update_LCD_object_count
-                0x0800143c       0x2c CMakeFiles/stm32-template.dir/src/main.c.obj
-                0x0800143c                update_LCD_object_count
+                0x080016b8       0x2c CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x080016b8                update_LCD_object_count
  .text.check_object_detection
-                0x08001468       0x50 CMakeFiles/stm32-template.dir/src/main.c.obj
-                0x08001468                check_object_detection
+                0x080016e4       0x50 CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x080016e4                check_object_detection
  .text.Display_motor_speed
-                0x080014b8       0x34 CMakeFiles/stm32-template.dir/src/main.c.obj
-                0x080014b8                Display_motor_speed
+                0x08001734       0x34 CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x08001734                Display_motor_speed
+ .text.EXTI9_5_IRQHandler
+                0x08001768       0x34 CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x08001768                EXTI9_5_IRQHandler
  .text.Reset_Handler
-                0x080014ec       0x44 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
-                0x080014ec                Reset_Handler
+                0x0800179c       0x44 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
+                0x0800179c                Reset_Handler
  .text.Default_Handler
-                0x08001530        0x2 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
-                0x08001530                RTC_Alarm_IRQHandler
-                0x08001530                EXTI2_IRQHandler
-                0x08001530                DebugMon_Handler
-                0x08001530                SPI4_IRQHandler
-                0x08001530                TIM1_CC_IRQHandler
-                0x08001530                DMA2_Stream5_IRQHandler
-                0x08001530                HardFault_Handler
-                0x08001530                DMA1_Stream5_IRQHandler
-                0x08001530                SysTick_Handler
-                0x08001530                PVD_IRQHandler
-                0x08001530                SDIO_IRQHandler
-                0x08001530                TAMP_STAMP_IRQHandler
-                0x08001530                PendSV_Handler
-                0x08001530                NMI_Handler
-                0x08001530                EXTI3_IRQHandler
-                0x08001530                TIM1_UP_TIM10_IRQHandler
-                0x08001530                I2C3_ER_IRQHandler
-                0x08001530                EXTI0_IRQHandler
-                0x08001530                I2C2_EV_IRQHandler
-                0x08001530                DMA1_Stream2_IRQHandler
-                0x08001530                FPU_IRQHandler
-                0x08001530                UsageFault_Handler
-                0x08001530                DMA2_Stream2_IRQHandler
-                0x08001530                SPI1_IRQHandler
-                0x08001530                TIM1_BRK_TIM9_IRQHandler
-                0x08001530                DMA2_Stream3_IRQHandler
-                0x08001530                USART6_IRQHandler
-                0x08001530                DMA2_Stream0_IRQHandler
-                0x08001530                TIM4_IRQHandler
-                0x08001530                I2C1_EV_IRQHandler
-                0x08001530                DMA1_Stream6_IRQHandler
-                0x08001530                DMA1_Stream1_IRQHandler
-                0x08001530                TIM3_IRQHandler
-                0x08001530                RCC_IRQHandler
-                0x08001530                Default_Handler
-                0x08001530                EXTI15_10_IRQHandler
-                0x08001530                ADC_IRQHandler
-                0x08001530                DMA1_Stream7_IRQHandler
-                0x08001530                TIM5_IRQHandler
-                0x08001530                DMA2_Stream7_IRQHandler
-                0x08001530                I2C3_EV_IRQHandler
-                0x08001530                EXTI9_5_IRQHandler
-                0x08001530                RTC_WKUP_IRQHandler
-                0x08001530                SPI2_IRQHandler
-                0x08001530                MemManage_Handler
-                0x08001530                DMA1_Stream0_IRQHandler
-                0x08001530                SVC_Handler
-                0x08001530                EXTI4_IRQHandler
-                0x08001530                WWDG_IRQHandler
-                0x08001530                TIM2_IRQHandler
-                0x08001530                OTG_FS_WKUP_IRQHandler
-                0x08001530                TIM1_TRG_COM_TIM11_IRQHandler
-                0x08001530                EXTI1_IRQHandler
-                0x08001530                USART2_IRQHandler
-                0x08001530                I2C2_ER_IRQHandler
-                0x08001530                DMA2_Stream1_IRQHandler
-                0x08001530                FLASH_IRQHandler
-                0x08001530                DMA2_Stream4_IRQHandler
-                0x08001530                BusFault_Handler
-                0x08001530                USART1_IRQHandler
-                0x08001530                OTG_FS_IRQHandler
-                0x08001530                SPI3_IRQHandler
-                0x08001530                DMA1_Stream4_IRQHandler
-                0x08001530                I2C1_ER_IRQHandler
-                0x08001530                DMA2_Stream6_IRQHandler
-                0x08001530                DMA1_Stream3_IRQHandler
- *fill*         0x08001532        0x2 
+                0x080017e0        0x2 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
+                0x080017e0                RTC_Alarm_IRQHandler
+                0x080017e0                EXTI2_IRQHandler
+                0x080017e0                DebugMon_Handler
+                0x080017e0                SPI4_IRQHandler
+                0x080017e0                TIM1_CC_IRQHandler
+                0x080017e0                DMA2_Stream5_IRQHandler
+                0x080017e0                HardFault_Handler
+                0x080017e0                DMA1_Stream5_IRQHandler
+                0x080017e0                SysTick_Handler
+                0x080017e0                PVD_IRQHandler
+                0x080017e0                SDIO_IRQHandler
+                0x080017e0                TAMP_STAMP_IRQHandler
+                0x080017e0                PendSV_Handler
+                0x080017e0                NMI_Handler
+                0x080017e0                EXTI3_IRQHandler
+                0x080017e0                TIM1_UP_TIM10_IRQHandler
+                0x080017e0                I2C3_ER_IRQHandler
+                0x080017e0                EXTI0_IRQHandler
+                0x080017e0                I2C2_EV_IRQHandler
+                0x080017e0                DMA1_Stream2_IRQHandler
+                0x080017e0                FPU_IRQHandler
+                0x080017e0                UsageFault_Handler
+                0x080017e0                DMA2_Stream2_IRQHandler
+                0x080017e0                SPI1_IRQHandler
+                0x080017e0                TIM1_BRK_TIM9_IRQHandler
+                0x080017e0                DMA2_Stream3_IRQHandler
+                0x080017e0                USART6_IRQHandler
+                0x080017e0                DMA2_Stream0_IRQHandler
+                0x080017e0                TIM4_IRQHandler
+                0x080017e0                I2C1_EV_IRQHandler
+                0x080017e0                DMA1_Stream6_IRQHandler
+                0x080017e0                DMA1_Stream1_IRQHandler
+                0x080017e0                TIM3_IRQHandler
+                0x080017e0                RCC_IRQHandler
+                0x080017e0                Default_Handler
+                0x080017e0                EXTI15_10_IRQHandler
+                0x080017e0                ADC_IRQHandler
+                0x080017e0                DMA1_Stream7_IRQHandler
+                0x080017e0                TIM5_IRQHandler
+                0x080017e0                DMA2_Stream7_IRQHandler
+                0x080017e0                I2C3_EV_IRQHandler
+                0x080017e0                RTC_WKUP_IRQHandler
+                0x080017e0                SPI2_IRQHandler
+                0x080017e0                MemManage_Handler
+                0x080017e0                DMA1_Stream0_IRQHandler
+                0x080017e0                SVC_Handler
+                0x080017e0                EXTI4_IRQHandler
+                0x080017e0                WWDG_IRQHandler
+                0x080017e0                TIM2_IRQHandler
+                0x080017e0                OTG_FS_WKUP_IRQHandler
+                0x080017e0                TIM1_TRG_COM_TIM11_IRQHandler
+                0x080017e0                EXTI1_IRQHandler
+                0x080017e0                USART2_IRQHandler
+                0x080017e0                I2C2_ER_IRQHandler
+                0x080017e0                DMA2_Stream1_IRQHandler
+                0x080017e0                FLASH_IRQHandler
+                0x080017e0                DMA2_Stream4_IRQHandler
+                0x080017e0                BusFault_Handler
+                0x080017e0                USART1_IRQHandler
+                0x080017e0                OTG_FS_IRQHandler
+                0x080017e0                SPI3_IRQHandler
+                0x080017e0                DMA1_Stream4_IRQHandler
+                0x080017e0                I2C1_ER_IRQHandler
+                0x080017e0                DMA2_Stream6_IRQHandler
+                0x080017e0                DMA1_Stream3_IRQHandler
+ *fill*         0x080017e2        0x2 
  .text.__libc_init_array
-                0x08001534       0x48 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-init.o)
-                0x08001534                __libc_init_array
+                0x080017e4       0x48 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-init.o)
+                0x080017e4                __libc_init_array
  *(.glue_7)
- .glue_7        0x0800157c        0x0 linker stubs
+ .glue_7        0x0800182c        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x0800157c        0x0 linker stubs
+ .glue_7t       0x0800182c        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x0800157c        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .eh_frame      0x0800182c        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
  *(.init)
- .init          0x0800157c        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
-                0x0800157c                _init
- .init          0x08001580        0x8 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
+ .init          0x0800182c        0x4 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
+                0x0800182c                _init
+ .init          0x08001830        0x8 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
  *(.fini)
- .fini          0x08001588        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
-                0x08001588                _fini
- .fini          0x0800158c        0x8 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
-                0x08001594                        . = ALIGN (0x4)
-                0x08001594                        __text_end = .
+ .fini          0x08001838        0x4 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
+                0x08001838                _fini
+ .fini          0x0800183c        0x8 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
+                0x08001844                        . = ALIGN (0x4)
+                0x08001844                        __text_end = .
 
-.vfp11_veneer   0x08001594        0x0
- .vfp11_veneer  0x08001594        0x0 linker stubs
+.vfp11_veneer   0x08001844        0x0
+ .vfp11_veneer  0x08001844        0x0 linker stubs
 
-.v4_bx          0x08001594        0x0
- .v4_bx         0x08001594        0x0 linker stubs
+.v4_bx          0x08001844        0x0
+ .v4_bx         0x08001844        0x0 linker stubs
 
-.iplt           0x08001594        0x0
- .iplt          0x08001594        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+.iplt           0x08001844        0x0
+ .iplt          0x08001844        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
 
-.rodata         0x08001594       0x10
-                0x08001594                        . = ALIGN (0x4)
-                0x08001594                        __rodata_start = .
+.rodata         0x08001844       0x28
+                0x08001844                        . = ALIGN (0x4)
+                0x08001844                        __rodata_start = .
  *(.rodata)
- .rodata        0x08001594       0x10 CMakeFiles/stm32-template.dir/src/main.c.obj
+ .rodata        0x08001844       0x28 CMakeFiles/stm32-template.dir/src/main.c.obj
  *(.rodata*)
-                0x080015a4                        . = ALIGN (0x4)
-                0x080015a4                        __rodata_end = .
+                0x0800186c                        . = ALIGN (0x4)
+                0x0800186c                        __rodata_end = .
 
-.rel.dyn        0x080015a4        0x0
- .rel.iplt      0x080015a4        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+.rel.dyn        0x0800186c        0x0
+ .rel.iplt      0x0800186c        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x080015a4        0x0
-                0x080015a4                        __exidx_start = .
+.ARM            0x0800186c        0x0
+                0x0800186c                        __exidx_start = .
  *(.ARM.exidx*)
-                0x080015a4                        __exidx_end = .
+                0x0800186c                        __exidx_end = .
 
-.preinit_array  0x080015a4        0x0
-                0x080015a4                        PROVIDE (__preinit_array_start = .)
+.preinit_array  0x0800186c        0x0
+                0x0800186c                        PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x080015a4                        PROVIDE (__preinit_array_end = .)
+                0x0800186c                        PROVIDE (__preinit_array_end = .)
 
-.init_array     0x080015a4        0x4
-                0x080015a4                        PROVIDE (__init_array_start = .)
+.init_array     0x0800186c        0x4
+                0x0800186c                        PROVIDE (__init_array_start = .)
  *(.init_array*)
- .init_array    0x080015a4        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
-                0x080015a8                        PROVIDE (__init_array_end = .)
+ .init_array    0x0800186c        0x4 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x08001870                        PROVIDE (__init_array_end = .)
 
-.fini_array     0x080015a8        0x4
+.fini_array     0x08001870        0x4
                 [!provide]                        PROVIDE (__fini_array_start = .)
  *(.fini_array*)
- .fini_array    0x080015a8        0x4 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .fini_array    0x08001870        0x4 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
                 [!provide]                        PROVIDE (__fini_array_end = .)
-                0x080015ac                        __data_flash_start = LOADADDR (.data)
+                0x08001874                        __data_flash_start = LOADADDR (.data)
 
-.data           0x20000000        0x4 load address 0x080015ac
+.data           0x20000000        0x4 load address 0x08001874
                 0x20000000                        . = ALIGN (0x4)
                 0x20000000                        __data_start = .
  *(.data)
@@ -699,43 +719,52 @@ LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-no
                 0x20000004                        __data_end = .
 
 .tm_clone_table
-                0x20000004        0x0 load address 0x080015b0
+                0x20000004        0x0 load address 0x08001878
  .tm_clone_table
-                0x20000004        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x20000004        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
  .tm_clone_table
-                0x20000004        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
+                0x20000004        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
 
-.igot.plt       0x20000004        0x0 load address 0x080015b0
- .igot.plt      0x20000004        0x0 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+.igot.plt       0x20000004        0x0 load address 0x08001878
+ .igot.plt      0x20000004        0x0 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
 
-.bss            0x20000004       0x28 load address 0x080015b0
+.bss            0x20000004       0x2c load address 0x08001878
                 0x20000004                        . = ALIGN (0x4)
                 0x20000004                        __bss_start = .
                 0x20000004                        __bss_start__ = __bss_start
  *(.bss)
  *(.bss*)
  .bss.completed.1
-                0x20000004        0x1 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x20000004        0x1 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
  *fill*         0x20000005        0x3 
- .bss.object.0  0x20000008       0x18 C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss.object.0  0x20000008       0x18 D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
  .bss.CHANNEL   0x20000020        0x1 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
  *fill*         0x20000021        0x3 
  .bss.last_capture
                 0x20000024        0x4 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
- .bss.object_count
+ .bss.emergency_stop_triggered
                 0x20000028        0x1 CMakeFiles/stm32-template.dir/src/main.c.obj
-                0x20000028                object_count
- .bss.curr_state
+                0x20000028                emergency_stop_triggered
+ .bss.object_count
                 0x20000029        0x1 CMakeFiles/stm32-template.dir/src/main.c.obj
-                0x20000029                curr_state
+                0x20000029                object_count
+ .bss.curr_state
+                0x2000002a        0x1 CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x2000002a                curr_state
+ .bss.emergency_displayed
+                0x2000002b        0x1 CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x2000002b                emergency_displayed
+ .bss.last_motor_speed
+                0x2000002c        0x2 CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x2000002c                last_motor_speed
  *(COMMON)
-                0x2000002c                        . = ALIGN (0x4)
- *fill*         0x2000002a        0x2 
-                0x2000002c                        __bss_end = .
-                0x2000002c                        __bss_end__ = __bss_end
-                0x080015b0                        __cmmdata_flash_start = LOADADDR (.ccmram)
+                0x20000030                        . = ALIGN (0x4)
+ *fill*         0x2000002e        0x2 
+                0x20000030                        __bss_end = .
+                0x20000030                        __bss_end__ = __bss_end
+                0x08001878                        __cmmdata_flash_start = LOADADDR (.ccmram)
 
-.ccmram         0x10000000        0x0 load address 0x080015b0
+.ccmram         0x10000000        0x0 load address 0x08001878
                 0x10000000                        . = ALIGN (0x4)
                 0x10000000                        __ccmdata_start = .
  *(.ccmram)
@@ -744,15 +773,15 @@ LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-no
                 0x10000000                        __ccmdata_end = .
 
 ._user_heap_stack
-                0x2000002c      0x600
-                0x2000002c                        . = ALIGN (0x4)
+                0x20000030      0x600
+                0x20000030                        . = ALIGN (0x4)
                 [!provide]                        PROVIDE (end = .)
                 [!provide]                        PROVIDE (_end = .)
-                0x2000022c                        . = (. + 0x200)
- *fill*         0x2000002c      0x200 
-                0x2000062c                        . = (. + 0x400)
- *fill*         0x2000022c      0x400 
-                0x2000062c                        . = ALIGN (0x4)
+                0x20000230                        . = (. + 0x200)
+ *fill*         0x20000030      0x200 
+                0x20000630                        . = (. + 0x400)
+ *fill*         0x20000230      0x400 
+                0x20000630                        . = ALIGN (0x4)
 
 /DISCARD/
  libc.a(*)
@@ -763,128 +792,139 @@ LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-no
                 0x00000000       0x2a
  *(.ARM.attributes)
  .ARM.attributes
-                0x00000000       0x1e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
+                0x00000000       0x1e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crti.o
  .ARM.attributes
-                0x0000001e       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x0000001e       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtbegin.o
  .ARM.attributes
                 0x0000004c       0x2e CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
  .ARM.attributes
-                0x0000007a       0x2e CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
+                0x0000007a       0x2e CMakeFiles/stm32-template.dir/EXTI/EXTI.c.obj
  .ARM.attributes
-                0x000000a8       0x2e CMakeFiles/stm32-template.dir/Motor/motor.c.obj
+                0x000000a8       0x2e CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
  .ARM.attributes
-                0x000000d6       0x2e CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
+                0x000000d6       0x2e CMakeFiles/stm32-template.dir/Motor/motor.c.obj
  .ARM.attributes
-                0x00000104       0x2e CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
+                0x00000104       0x2e CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
  .ARM.attributes
-                0x00000132       0x2e CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
+                0x00000132       0x2e CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
  .ARM.attributes
-                0x00000160       0x2e CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+                0x00000160       0x2e CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
  .ARM.attributes
-                0x0000018e       0x2e CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x0000018e       0x2e CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
  .ARM.attributes
-                0x000001bc       0x1c CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
+                0x000001bc       0x2e CMakeFiles/stm32-template.dir/src/main.c.obj
  .ARM.attributes
-                0x000001d8       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-init.o)
+                0x000001ea       0x1c CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
  .ARM.attributes
-                0x00000206       0x2e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
+                0x00000206       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-init.o)
  .ARM.attributes
-                0x00000234       0x1e C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
+                0x00000234       0x2e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x00000262       0x1e D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp/crtn.o
 OUTPUT(stm32-template.elf elf32-littlearm)
 LOAD linker stubs
-LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libc.a
-LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libm.a
-LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libc.a
+LOAD D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libm.a
+LOAD D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libgcc.a
 
-.debug_info     0x00000000     0x1344
+.debug_info     0x00000000     0x1a94
  .debug_info    0x00000000      0x2b4 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
- .debug_info    0x000002b4      0x185 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
- .debug_info    0x00000439      0x17b CMakeFiles/stm32-template.dir/Motor/motor.c.obj
- .debug_info    0x000005b4      0x2c7 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
- .debug_info    0x0000087b      0x131 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
- .debug_info    0x000009ac      0x183 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
- .debug_info    0x00000b2f      0x43d CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
- .debug_info    0x00000f6c      0x3a8 CMakeFiles/stm32-template.dir/src/main.c.obj
- .debug_info    0x00001314       0x30 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
+ .debug_info    0x000002b4      0x5a4 CMakeFiles/stm32-template.dir/EXTI/EXTI.c.obj
+ .debug_info    0x00000858      0x185 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
+ .debug_info    0x000009dd      0x1c2 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
+ .debug_info    0x00000b9f      0x2c7 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
+ .debug_info    0x00000e66      0x131 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
+ .debug_info    0x00000f97      0x183 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
+ .debug_info    0x0000111a      0x43d CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_info    0x00001557      0x50d CMakeFiles/stm32-template.dir/src/main.c.obj
+ .debug_info    0x00001a64       0x30 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
 
-.debug_abbrev   0x00000000      0x75a
+.debug_abbrev   0x00000000      0x984
  .debug_abbrev  0x00000000       0xda CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
- .debug_abbrev  0x000000da       0x8a CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
- .debug_abbrev  0x00000164       0xd0 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
- .debug_abbrev  0x00000234      0x10e CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
- .debug_abbrev  0x00000342       0x88 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
- .debug_abbrev  0x000003ca       0xcd CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
- .debug_abbrev  0x00000497      0x12b CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
- .debug_abbrev  0x000005c2      0x17b CMakeFiles/stm32-template.dir/src/main.c.obj
- .debug_abbrev  0x0000073d       0x1d CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
+ .debug_abbrev  0x000000da      0x174 CMakeFiles/stm32-template.dir/EXTI/EXTI.c.obj
+ .debug_abbrev  0x0000024e       0x8a CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
+ .debug_abbrev  0x000002d8       0xe7 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
+ .debug_abbrev  0x000003bf      0x10e CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
+ .debug_abbrev  0x000004cd       0x88 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
+ .debug_abbrev  0x00000555       0xcd CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
+ .debug_abbrev  0x00000622      0x12b CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_abbrev  0x0000074d      0x21a CMakeFiles/stm32-template.dir/src/main.c.obj
+ .debug_abbrev  0x00000967       0x1d CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
 
-.debug_loc      0x00000000      0xb6c
+.debug_loc      0x00000000      0xd14
  .debug_loc     0x00000000       0x94 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
- .debug_loc     0x00000094      0x114 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
- .debug_loc     0x000001a8       0xf8 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
- .debug_loc     0x000002a0      0x134 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
- .debug_loc     0x000003d4       0xfc CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
- .debug_loc     0x000004d0       0xfc CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
- .debug_loc     0x000005cc      0x3b0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
- .debug_loc     0x0000097c      0x1f0 CMakeFiles/stm32-template.dir/src/main.c.obj
+ .debug_loc     0x00000094      0x164 CMakeFiles/stm32-template.dir/EXTI/EXTI.c.obj
+ .debug_loc     0x000001f8      0x114 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
+ .debug_loc     0x0000030c       0xf8 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
+ .debug_loc     0x00000404      0x134 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
+ .debug_loc     0x00000538       0xfc CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
+ .debug_loc     0x00000634       0xfc CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
+ .debug_loc     0x00000730      0x3b0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_loc     0x00000ae0      0x234 CMakeFiles/stm32-template.dir/src/main.c.obj
 
-.debug_aranges  0x00000000      0x228
+.debug_aranges  0x00000000      0x268
  .debug_aranges
                 0x00000000       0x28 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
  .debug_aranges
-                0x00000028       0x30 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
+                0x00000028       0x38 CMakeFiles/stm32-template.dir/EXTI/EXTI.c.obj
  .debug_aranges
-                0x00000058       0x38 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
+                0x00000060       0x30 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
  .debug_aranges
-                0x00000090       0x38 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
+                0x00000090       0x38 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
  .debug_aranges
-                0x000000c8       0x30 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
+                0x000000c8       0x38 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
  .debug_aranges
-                0x000000f8       0x30 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
+                0x00000100       0x30 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
  .debug_aranges
-                0x00000128       0x80 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+                0x00000130       0x30 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
  .debug_aranges
-                0x000001a8       0x58 CMakeFiles/stm32-template.dir/src/main.c.obj
+                0x00000160       0x80 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
  .debug_aranges
-                0x00000200       0x28 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
+                0x000001e0       0x60 CMakeFiles/stm32-template.dir/src/main.c.obj
+ .debug_aranges
+                0x00000240       0x28 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
 
-.debug_ranges   0x00000000      0x1a0
+.debug_ranges   0x00000000      0x1d0
  .debug_ranges  0x00000000       0x18 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
- .debug_ranges  0x00000018       0x20 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
- .debug_ranges  0x00000038       0x28 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
- .debug_ranges  0x00000060       0x28 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
- .debug_ranges  0x00000088       0x20 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
- .debug_ranges  0x000000a8       0x20 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
- .debug_ranges  0x000000c8       0x70 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
- .debug_ranges  0x00000138       0x48 CMakeFiles/stm32-template.dir/src/main.c.obj
- .debug_ranges  0x00000180       0x20 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
+ .debug_ranges  0x00000018       0x28 CMakeFiles/stm32-template.dir/EXTI/EXTI.c.obj
+ .debug_ranges  0x00000040       0x20 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
+ .debug_ranges  0x00000060       0x28 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
+ .debug_ranges  0x00000088       0x28 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
+ .debug_ranges  0x000000b0       0x20 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
+ .debug_ranges  0x000000d0       0x20 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
+ .debug_ranges  0x000000f0       0x70 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_ranges  0x00000160       0x50 CMakeFiles/stm32-template.dir/src/main.c.obj
+ .debug_ranges  0x000001b0       0x20 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
 
-.debug_line     0x00000000     0x171b
- .debug_line    0x00000000      0x24c CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
- .debug_line    0x0000024c      0x4d7 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
- .debug_line    0x00000723      0x16e CMakeFiles/stm32-template.dir/Motor/motor.c.obj
- .debug_line    0x00000891      0x300 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
- .debug_line    0x00000b91      0x122 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
- .debug_line    0x00000cb3      0x216 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
- .debug_line    0x00000ec9      0x3df CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
- .debug_line    0x000012a8      0x3b3 CMakeFiles/stm32-template.dir/src/main.c.obj
- .debug_line    0x0000165b       0xc0 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
+.debug_line     0x00000000     0x1b30
+ .debug_line    0x00000000      0x228 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
+ .debug_line    0x00000228      0x30d CMakeFiles/stm32-template.dir/EXTI/EXTI.c.obj
+ .debug_line    0x00000535      0x4c5 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
+ .debug_line    0x000009fa      0x19e CMakeFiles/stm32-template.dir/Motor/motor.c.obj
+ .debug_line    0x00000b98      0x2e5 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
+ .debug_line    0x00000e7d      0x110 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
+ .debug_line    0x00000f8d      0x1f2 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
+ .debug_line    0x0000117f      0x3bb CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_line    0x0000153a      0x53f CMakeFiles/stm32-template.dir/src/main.c.obj
+ .debug_line    0x00001a79       0xb7 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
 
-.debug_str      0x00000000      0x8b7
- .debug_str     0x00000000      0x8b7 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
-                                0x29c (size before relaxing)
- .debug_str     0x000008b7      0x253 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
- .debug_str     0x000008b7      0x28c CMakeFiles/stm32-template.dir/Motor/motor.c.obj
- .debug_str     0x000008b7      0x2bc CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
- .debug_str     0x000008b7      0x239 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
- .debug_str     0x000008b7      0x277 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
- .debug_str     0x000008b7      0x36c CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
- .debug_str     0x000008b7      0x3ac CMakeFiles/stm32-template.dir/src/main.c.obj
- .debug_str     0x000008b7       0xd4 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
+.debug_str      0x00000000      0xda9
+ .debug_str     0x00000000      0xda9 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
+                                0x28d (size before relaxing)
+ .debug_str     0x00000da9      0x6c5 CMakeFiles/stm32-template.dir/EXTI/EXTI.c.obj
+ .debug_str     0x00000da9      0x244 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
+ .debug_str     0x00000da9      0x295 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
+ .debug_str     0x00000da9      0x2ad CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
+ .debug_str     0x00000da9      0x22a CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
+ .debug_str     0x00000da9      0x268 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
+ .debug_str     0x00000da9      0x35d CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_str     0x00000da9      0x452 CMakeFiles/stm32-template.dir/src/main.c.obj
+ .debug_str     0x00000da9       0xc2 CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj
 
 .comment        0x00000000       0x45
  .comment       0x00000000       0x45 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
                                  0x46 (size before relaxing)
+ .comment       0x00000045       0x46 CMakeFiles/stm32-template.dir/EXTI/EXTI.c.obj
  .comment       0x00000045       0x46 CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
  .comment       0x00000045       0x46 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
  .comment       0x00000045       0x46 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
@@ -893,13 +933,14 @@ LOAD C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-no
  .comment       0x00000045       0x46 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
  .comment       0x00000045       0x46 CMakeFiles/stm32-template.dir/src/main.c.obj
 
-.debug_frame    0x00000000      0x620
+.debug_frame    0x00000000      0x6ec
  .debug_frame   0x00000000       0x54 CMakeFiles/stm32-template.dir/ADC/ADC.c.obj
- .debug_frame   0x00000054       0x8c CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
- .debug_frame   0x000000e0       0x90 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
- .debug_frame   0x00000170       0xa0 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
- .debug_frame   0x00000210       0x80 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
- .debug_frame   0x00000290       0x84 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
- .debug_frame   0x00000314      0x1d0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
- .debug_frame   0x000004e4      0x110 CMakeFiles/stm32-template.dir/src/main.c.obj
- .debug_frame   0x000005f4       0x2c C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-init.o)
+ .debug_frame   0x00000054       0xac CMakeFiles/stm32-template.dir/EXTI/EXTI.c.obj
+ .debug_frame   0x00000100       0x8c CMakeFiles/stm32-template.dir/GPIO/GPIO.c.obj
+ .debug_frame   0x0000018c       0x90 CMakeFiles/stm32-template.dir/Motor/motor.c.obj
+ .debug_frame   0x0000021c       0xa0 CMakeFiles/stm32-template.dir/PWM/PWM.c.obj
+ .debug_frame   0x000002bc       0x80 CMakeFiles/stm32-template.dir/RCC/RCC.c.obj
+ .debug_frame   0x0000033c       0x84 CMakeFiles/stm32-template.dir/Timer/Timer.c.obj
+ .debug_frame   0x000003c0      0x1d0 CMakeFiles/stm32-template.dir/lcd/lcd.c.obj
+ .debug_frame   0x00000590      0x130 CMakeFiles/stm32-template.dir/src/main.c.obj
+ .debug_frame   0x000006c0       0x2c D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/../lib/gcc/arm-none-eabi/14.2.1/thumb/v7e-m/nofp\libg_nano.a(libc_a-init.o)

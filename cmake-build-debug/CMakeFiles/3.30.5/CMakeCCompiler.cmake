@@ -1,4 +1,4 @@
-set(CMAKE_C_COMPILER "C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc.exe")
+set(CMAKE_C_COMPILER "D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc.exe")
 set(CMAKE_C_COMPILER_ARG1 "-fdata-sections -ffunction-sections -fsigned-char -fmessage-length=0 -ffreestanding")
 set(CMAKE_C_COMPILER_ID "GNU")
 set(CMAKE_C_COMPILER_VERSION "14.2.1")
@@ -22,11 +22,11 @@ set(CMAKE_C_SIMULATE_VERSION "")
 
 
 
-set(CMAKE_AR "C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-ar.exe")
-set(CMAKE_C_COMPILER_AR "C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc-ar.exe")
-set(CMAKE_RANLIB "C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-ranlib.exe")
-set(CMAKE_C_COMPILER_RANLIB "C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc-ranlib.exe")
-set(CMAKE_LINKER "C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-ld.exe")
+set(CMAKE_AR "D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-ar.exe")
+set(CMAKE_C_COMPILER_AR "D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc-ar.exe")
+set(CMAKE_RANLIB "D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-ranlib.exe")
+set(CMAKE_C_COMPILER_RANLIB "D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc-ranlib.exe")
+set(CMAKE_LINKER "D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-ld.exe")
 set(CMAKE_LINKER_LINK "")
 set(CMAKE_LINKER_LLD "")
 set(CMAKE_C_COMPILER_LINKER "NOTFOUND")
@@ -46,7 +46,7 @@ set(CMAKE_C_COMPILER_ID_RUN 1)
 set(CMAKE_C_SOURCE_FILE_EXTENSIONS c;m)
 set(CMAKE_C_IGNORE_EXTENSIONS h;H;o;O;obj;OBJ;def;DEF;rc;RC)
 set(CMAKE_C_LINKER_PREFERENCE 10)
-set(CMAKE_C_LINKER_DEPFILE_SUPPORTED )
+set(CMAKE_C_LINKER_DEPFILE_SUPPORTED FALSE)
 
 # Save compiler ABI information.
 set(CMAKE_C_SIZEOF_DATA_PTR "4")
@@ -75,7 +75,7 @@ endif()
 
 
 
-set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/lib/gcc/arm-none-eabi/14.2.1/include;C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/lib/gcc/arm-none-eabi/14.2.1/include-fixed;C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/arm-none-eabi/include")
+set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/lib/gcc/arm-none-eabi/14.2.1/include;D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/lib/gcc/arm-none-eabi/14.2.1/include-fixed;D:/SBE 26/Third Year/2nd Term/EMBEDEDD/Coding/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/arm-none-eabi/include")
 set(CMAKE_C_IMPLICIT_LINK_LIBRARIES "")
 set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "")
 set(CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "")

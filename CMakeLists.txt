@@ -32,7 +32,9 @@ add_executable(${EXECUTABLE} ${SOURCE_LIST} ${STARTUP_BASE_DIR}/${SERIES_FOLDER}
         ADC/ADC_Config.h
         Timer/Timer.c
         Timer/Timer.h
-        Timer/Timer_Private.h)
+        Timer/Timer_Private.h
+        EXTI/EXTI.c
+        EXTI/EXTI.h)
 # Include
 target_include_directories(${EXECUTABLE} PUBLIC ${INCLUDE_LIST})
 # Project symbols

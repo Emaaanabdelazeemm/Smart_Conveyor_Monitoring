@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-d0094a50bb2071803777.json",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.30"
@@ -19,7 +19,7 @@
 					]
 				}
 			],
-			"name" : "",
+			"name" : "Debug",
 			"projects" : 
 			[
 				{
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "stm32-template::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-stm32-template-ae8c92c57671579ba3b6.json",
+					"jsonFile" : "target-stm32-template-Debug-156f0c6c740f5d93dda3.json",
 					"name" : "stm32-template",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/dell/Desktop/Embedded project/Smart_Conveyor_Monitoring/cmake-build-debug",
-		"source" : "C:/Users/dell/Desktop/Embedded project/Smart_Conveyor_Monitoring"
+		"build" : "D:/Programming Files/Embededd/Smart_Conveyor_Monitoring/cmake-build-debug",
+		"source" : "D:/Programming Files/Embededd/Smart_Conveyor_Monitoring"
 	},
 	"version" : 
 	{
