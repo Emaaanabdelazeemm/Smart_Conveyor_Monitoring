@@ -4,8 +4,14 @@
 // Channel Selection
 #define TIM2_CH1    1   // PA0
 #define TIM2_CH2    2   // PA1
-#define TIM2_CH3    3   // PA2
-#define TIM2_CH4    4   // PA3
+#define TIM2_CH3    3
+#define TIM2_CH4    4
+
+
+#define TIM1_CH1    1
+#define TIM1_CH2    2
+#define TIM1_CH3    3
+#define TIM1_CH4    4
 
 // ================= Channel 1 (CCMR1, OC1) =================
 #define TIM_CCMR1_OC1M_Pos     4U
@@ -44,7 +50,6 @@
 
 void PWM_Init(const uint8 channel);
 void PWM_SetDutyCycle(const uint16 duty_cycle_percent); // 0 - 100%
-void PWM_Start(void);
-void PWM_Stop(void);
+
 
 #endif // PWM_H

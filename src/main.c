@@ -57,7 +57,7 @@ void setup(void)
 
 
 
-	Init_Motor(TIM2_CH3, 50);
+	Init_Motor(TIM1_CH2, 50);
 	LCD_Init();
 	TIM_Init(TIM_CH1);
 	ADC_INIT(POT_PORT, POT_PIN, POT_CHANNEL);
@@ -65,10 +65,8 @@ void setup(void)
 	Gpio_Init(GPIO_B, motor_IN2_PIN, GPIO_OUTPUT, GPIO_PUSH_PULL);
 	Gpio_Init(GPIO_B, IR_Push_button_pin, GPIO_INPUT, GPIO_PULL_UP);
 	Gpio_WritePin(GPIO_A,motor_IN1_PIN , LOW);
-	Gpio_WritePin(GPIO_A, motor_IN2_PIN, HIGH);
-	//led for timer
-	Gpio_Init(GPIO_A, 7, GPIO_OUTPUT, GPIO_PUSH_PULL);
-	Gpio_WritePin(GPIO_A, 7, HIGH);
+	Gpio_WritePin(GPIO_A, motor_IN2_PIN, LOW);
+
 }
 
 void loop(void) {
@@ -78,10 +76,6 @@ void loop(void) {
 	Display_motor_speed(duty_cycle_percent);
 	check_object_detection();
 	uint32 pulse_width = TIM_GetCaptureValue();
-	// Toggle LED if valid pulse detected
-	if(pulse_width > 0) {
-		Gpio_WritePin(GPIO_A, 7, LOW);
-	}
 
 
 

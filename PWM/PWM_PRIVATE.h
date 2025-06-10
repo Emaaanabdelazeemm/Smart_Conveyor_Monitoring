@@ -6,6 +6,7 @@
 #define PWM_PRIVATE_H
 #include "../LIB/Std_Types.h"
 
+#define TIM1_BASE   0x40010000UL
 #define TIM2_BASE   0x40000000UL
 #define TIM3_BASE   0x40000400UL
 #define TIM4_BASE   0x40000800UL
@@ -29,12 +30,14 @@ typedef struct {
     volatile uint32 CCR2;     // 0x38
     volatile uint32 CCR3;     // 0x3C
     volatile uint32 CCR4;     // 0x40
-    volatile uint32 RESERVED2; // 0x44
+    volatile uint32 BDTR;     // 0x44
     volatile uint32 DCR;      // 0x48
     volatile uint32 DMAR;     // 0x4C
 } TIM_TypeDef;
 
 // Create pointers to each timer
+
+#define TIM1   ((TIM_TypeDef *)TIM1_BASE)
 #define TIM2   ((TIM_TypeDef *)TIM2_BASE)
 #define TIM3   ((TIM_TypeDef *)TIM3_BASE)
 #define TIM4   ((TIM_TypeDef *)TIM4_BASE)

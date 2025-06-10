@@ -24,8 +24,9 @@ void ADC_INIT(uint8 PORT , uint8 PIN , uint8 CHANNEL) {
     ADC1->CR2 = 0;
     ADC1->CR2 |= (1 << 0);
 
-    ADC1->CR2 &= ~(1 << 1);   // Single conversion mode
-    ADC1->CR2 |= (1 << 10);   // EOC
+    //  continous =1 , single =0
+    ADC1->CR2 &= ~(1 << CONT_BIT_POS);   // Single conversion mode
+    ADC1->CR2 |= (1 << EOC_BIT_POS);   // flag after each
 
 
     // sampling rate
@@ -39,7 +40,8 @@ void ADC_INIT(uint8 PORT , uint8 PIN , uint8 CHANNEL) {
     }
 
     // length in ADC_SQR1 register
-    ADC1->SQR1 &= ~(0xF << 20);
+    ADC1->SQR1 &= ~(0xF << LENGTH_BIT_POS);
+    ADC1->SQR1 |= (ONE_CONVERSION << LENGTH_BIT_POS);
 
     // Set channel in SQ1
     ADC1->SQR3 &= ~0x1F;
