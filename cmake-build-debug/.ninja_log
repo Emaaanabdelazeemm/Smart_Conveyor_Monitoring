@@ -11,3 +11,8 @@
 9	188	7712267903786348	CMakeFiles/stm32-template.dir/EXTI/EXTI.c.obj	2511af907b6d569a
 125	200	7712267904938087	CMakeFiles/stm32-template.dir/STM32-base/startup/STM32F4xx/STM32F401xE.s.obj	c8b594612a2929ae
 200	542	7712267905683250	stm32-template.elf	e0cf07ea461ac1f1
+4	186	7712272946442488	CMakeFiles/stm32-template.dir/ADC/ADC.c.obj	3636f784b3a9f636
+13	188	7712272946530217	CMakeFiles/stm32-template.dir/Motor/motor.c.obj	f01dbf6f24f0d9ae
+20	188	7712272946611839	CMakeFiles/stm32-template.dir/PWM/PWM.c.obj	bedce72de5bbe2b7
+28	193	7712272946677081	CMakeFiles/stm32-template.dir/src/main.c.obj	218c0e82c641c5ea
+197	417	7712272948366956	stm32-template.elf	e0cf07ea461ac1f1

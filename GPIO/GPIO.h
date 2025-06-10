@@ -1,9 +1,3 @@
-/*
- * GPIO.h
- *
- *  Created on: May 1, 2025
- *      Author: Hassnaa Hossam
- */
 
 #ifndef GPIO_H_
 #define GPIO_H_
