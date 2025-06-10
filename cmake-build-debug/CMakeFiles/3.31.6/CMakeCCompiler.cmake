@@ -22,9 +22,9 @@ set(CMAKE_C_SIMULATE_VERSION "")
 
 
 
-set(CMAKE_AR "C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-ar.exe")
+set(CMAKE_AR "D:/Program Files/JetBrains/CLion 2025.1/bin/mingw/bin/ar.exe")
 set(CMAKE_C_COMPILER_AR "C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc-ar.exe")
-set(CMAKE_RANLIB "C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-ranlib.exe")
+set(CMAKE_RANLIB "D:/Program Files/JetBrains/CLion 2025.1/bin/mingw/bin/ranlib.exe")
 set(CMAKE_C_COMPILER_RANLIB "C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-gcc-ranlib.exe")
 set(CMAKE_LINKER "C:/Users/dell/Downloads/arm-gnu-toolchain-14.2.rel1-mingw-w64-x86_64-arm-none-eabi/bin/arm-none-eabi-ld.exe")
 set(CMAKE_LINKER_LINK "")

@@ -64,5 +64,5 @@ float TIM_GetSpeed(void)
     if(pulse_width == 0) return 0.0f;
 
     // Calculate speed: (distance per pulse) / (time per pulse)
-    return calibration_factor / (pulse_width * 1e-6f); // m/s
+    return 1 / (pulse_width * 1e-6f); // m/s
 }
