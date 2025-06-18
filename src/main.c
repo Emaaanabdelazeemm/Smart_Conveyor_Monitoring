@@ -80,7 +80,7 @@ void setup(void)
 }
 
 uint8 emergency_displayed = 0;
-uint16 last_motor_speed = 0;
+
 
 void loop(void) {
 	if (emergency_stop_triggered && !emergency_displayed) {
@@ -111,9 +111,9 @@ void loop(void) {
 	Set_Motor_Speed(duty_cycle_percent);
 	Display_motor_speed(duty_cycle_percent);
 	check_object_detection();
-	uint32 pulse_width = TIM_GetCaptureValue();
 
-	last_motor_speed = duty_cycle_percent;  // 🟢 Save it
+
+
 	Set_Motor_Speed(duty_cycle_percent);
 	Display_motor_speed(duty_cycle_percent);
 
@@ -154,7 +154,7 @@ void check_object_detection() {
 void Display_motor_speed(uint16 duty_cycle_percent) {
 	LCD_SetCursor(0, 0);  // Start from beginning of second line
 	LCD_SendString("M:");
-	LCD_PrintNumber_FixedWidth(duty_cycle_percent, 3);  // Fixed width of 3 characters
+	LCD_PrintNumber(duty_cycle_percent);  // Fixed width of 3 characters
 	LCD_SendData('%');  // Add percentage symbol
 }
 

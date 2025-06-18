@@ -2,14 +2,8 @@
 #define PWM_H
 
 // Channel Selection
-#define TIM2_CH1    1   // PA0
-#define TIM2_CH2    2   // PA1
-#define TIM2_CH3    3
-#define TIM2_CH4    4
-
-
-#define TIM1_CH1    1
-#define TIM1_CH2    2
+#define TIM1_CH1    1  //PA8
+#define TIM1_CH2    2  //PA9
 #define TIM1_CH3    3
 #define TIM1_CH4    4
 
@@ -46,7 +40,7 @@
 // TIMx_EGR Register Bit Definitions
 #define TIM_EGR_UG             (1 << 0)    // Update generation
 
-// ========== Public API ==========
+#define AF1 0x1  // AF1 for timer 1 and timer 2
 
 void PWM_Init(const uint8 channel);
 void PWM_SetDutyCycle(const uint16 duty_cycle_percent); // 0 - 100%

@@ -27,8 +27,8 @@
 // #define DEFAULT_AF AF1_PIN0
 
 
-#define PWM_MODE1 0x6
-#define PWM_MODE2 0x7
+#define PWM_MODE1 0x6 	//Output is high until counter matches then goes low
+#define PWM_MODE2 0x7 // output is low until counter matches then goes high
 #define PWM_MODE PWM_MODE1
 
 

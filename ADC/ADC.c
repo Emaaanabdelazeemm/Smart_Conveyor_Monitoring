@@ -18,7 +18,7 @@ void ADC_INIT(uint8 PORT , uint8 PIN , uint8 CHANNEL) {
 
     //ADC RESOLUTION
     ADC1->CR1 &= ~(0x3 << 24);
-    ADC1->CR1 |=  ((ADC_RESOLUTION & 0x3) << 24);
+    ADC1->CR1 |=  (ADC_RESOLUTION  << 24);
 
     // Enable ADC by set ADON bit in ADC_CR2
     ADC1->CR2 = 0;
